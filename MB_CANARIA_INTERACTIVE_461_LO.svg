@@ -1,0 +1,931 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4961 3508" width="4961" height="3508">
+  <style>
+    .lot-poly { fill-opacity: 0.22; stroke: #ffffff; stroke-width: 2.5; cursor: pointer; transition: fill-opacity 0.15s; }
+    .lot-poly:hover { fill-opacity: 0.55; stroke: #facc15; stroke-width: 4; }
+    .lot-label { font-family: Arial, sans-serif; font-size: 11px; font-weight: bold; fill: #0f172a; text-anchor: middle; dominant-baseline: central; pointer-events: none; }
+  </style>
+  <g id="izumi-canaria-all-lots">
+    <polygon id="CANARIA-LOT-001" data-index="1" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="1739.0" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="1711,366 1711,500 1767,500 1767,366" />
+    <text x="1739.0" y="433.0" class="lot-label">1</text>
+    <polygon id="CANARIA-LOT-002" data-index="2" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="1792.5" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="1770,366 1770,500 1815,500 1815,366" />
+    <text x="1792.5" y="433.0" class="lot-label">2</text>
+    <polygon id="CANARIA-LOT-003" data-index="3" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="1840.0" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="1818,366 1818,500 1862,500 1862,366" />
+    <text x="1840.0" y="433.0" class="lot-label">3</text>
+    <polygon id="CANARIA-LOT-004" data-index="4" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="1887.0" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="1865,366 1865,500 1909,500 1909,366" />
+    <text x="1887.0" y="433.0" class="lot-label">4</text>
+    <polygon id="CANARIA-LOT-005" data-index="5" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="1933.5" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="1911,366 1911,500 1956,500 1956,366" />
+    <text x="1933.5" y="433.0" class="lot-label">5</text>
+    <polygon id="CANARIA-LOT-006" data-index="6" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="1981.5" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="1959,366 1959,500 2004,500 2004,366" />
+    <text x="1981.5" y="433.0" class="lot-label">6</text>
+    <polygon id="CANARIA-LOT-007" data-index="7" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2029.5" data-cy="425.1" class="lot-poly" fill="#BAC46B" points="2007,366 2007,487 2052,484 2052,366" />
+    <text x="2029.5" y="425.1" class="lot-label">7</text>
+    <polygon id="CANARIA-LOT-008" data-index="8" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2078.0" data-cy="425.0" class="lot-poly" fill="#BAC46B" points="2055,366 2055,484 2101,484 2101,366" />
+    <text x="2078.0" y="425.0" class="lot-label">8</text>
+    <polygon id="CANARIA-LOT-009" data-index="9" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2126.0" data-cy="425.0" class="lot-poly" fill="#BAC46B" points="2104,366 2104,484 2148,484 2148,366" />
+    <text x="2126.0" y="425.0" class="lot-label">9</text>
+    <polygon id="CANARIA-LOT-010" data-index="10" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2173.5" data-cy="425.1" class="lot-poly" fill="#BAC46B" points="2151,366 2151,484 2196,487 2196,366" />
+    <text x="2173.5" y="425.1" class="lot-label">10</text>
+    <polygon id="CANARIA-LOT-011" data-index="11" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2221.0" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="2199,366 2199,500 2243,500 2243,366" />
+    <text x="2221.0" y="433.0" class="lot-label">11</text>
+    <polygon id="CANARIA-LOT-012" data-index="12" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2269.0" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="2246,366 2246,500 2292,500 2292,366" />
+    <text x="2269.0" y="433.0" class="lot-label">12</text>
+    <polygon id="CANARIA-LOT-013" data-index="13" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2317.5" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="2295,366 2295,500 2340,500 2340,366" />
+    <text x="2317.5" y="433.0" class="lot-label">13</text>
+    <polygon id="CANARIA-LOT-014" data-index="14" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2365.5" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="2343,366 2343,500 2388,500 2388,366" />
+    <text x="2365.5" y="433.0" class="lot-label">14</text>
+    <polygon id="CANARIA-LOT-015" data-index="15" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2413.0" data-cy="433.0" class="lot-poly" fill="#BAC46B" points="2391,366 2391,500 2435,500 2435,366" />
+    <text x="2413.0" y="433.0" class="lot-label">15</text>
+    <polygon id="CANARIA-LOT-016" data-index="16" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2503.5" data-cy="433.0" class="lot-poly" fill="#8BA1D2" points="2464,366 2464,500 2543,500 2543,366" />
+    <text x="2503.5" y="433.0" class="lot-label">16</text>
+    <polygon id="CANARIA-LOT-017" data-index="17" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2585.5" data-cy="433.0" class="lot-poly" fill="#8BA1D2" points="2546,366 2546,500 2625,500 2625,366" />
+    <text x="2585.5" y="433.0" class="lot-label">17</text>
+    <polygon id="CANARIA-LOT-018" data-index="18" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2668.0" data-cy="433.0" class="lot-poly" fill="#8BA1D2" points="2628,366 2628,500 2708,500 2708,366" />
+    <text x="2668.0" y="433.0" class="lot-label">18</text>
+    <polygon id="CANARIA-LOT-019" data-index="19" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2749.4" data-cy="431.8" class="lot-poly" fill="#8BA1D2" points="2710,366 2710,500 2776,500 2777,489 2790,484 2790,366" />
+    <text x="2749.4" y="431.8" class="lot-label">19</text>
+    <polygon id="CANARIA-LOT-020" data-index="20" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2832.5" data-cy="425.0" class="lot-poly" fill="#8BA1D2" points="2793,366 2793,484 2872,484 2872,366" />
+    <text x="2832.5" y="425.0" class="lot-label">20</text>
+    <polygon id="CANARIA-LOT-021" data-index="21" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2914.5" data-cy="425.0" class="lot-poly" fill="#8BA1D2" points="2875,366 2875,484 2954,484 2954,366" />
+    <text x="2914.5" y="425.0" class="lot-label">21</text>
+    <polygon id="CANARIA-LOT-022" data-index="22" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2997.1" data-cy="431.9" class="lot-poly" fill="#8BA1D2" points="2957,366 2957,484 2969,488 2970,500 3036,500 3036,366" />
+    <text x="2997.1" y="431.9" class="lot-label">22</text>
+    <polygon id="CANARIA-LOT-023" data-index="23" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3079.0" data-cy="433.0" class="lot-poly" fill="#8BA1D2" points="3039,366 3039,500 3119,500 3119,366" />
+    <text x="3079.0" y="433.0" class="lot-label">23</text>
+    <polygon id="CANARIA-LOT-024" data-index="24" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3161.0" data-cy="433.0" class="lot-poly" fill="#8BA1D2" points="3121,366 3121,500 3201,500 3201,366" />
+    <text x="3161.0" y="433.0" class="lot-label">24</text>
+    <polygon id="CANARIA-LOT-025" data-index="25" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3243.5" data-cy="433.0" class="lot-poly" fill="#8BA1D2" points="3204,366 3204,500 3283,500 3283,366" />
+    <text x="3243.5" y="433.0" class="lot-label">25</text>
+    <polygon id="CANARIA-LOT-026" data-index="26" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3517.1" data-cy="499.0" class="lot-poly" fill="#8BA1D2" points="3470,438 3440,511 3565,559 3596,490" />
+    <text x="3517.1" y="499.0" class="lot-label">26</text>
+    <polygon id="CANARIA-LOT-027" data-index="27" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3553.9" data-cy="427.7" class="lot-poly" fill="#8BA1D2" points="3489,392 3472,436 3597,487 3638,418 3531,375" />
+    <text x="3553.9" y="427.7" class="lot-label">27</text>
+    <polygon id="CANARIA-LOT-028" data-index="28" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1481.8" data-cy="633.4" class="lot-poly" fill="#6CC6AE" points="1454,574 1426,600 1510,692 1538,667" />
+    <text x="1481.8" y="633.4" class="lot-label">28</text>
+    <polygon id="CANARIA-LOT-029" data-index="29" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1512.1" data-cy="605.9" class="lot-poly" fill="#6CC6AE" points="1484,547 1456,572 1540,665 1568,639" />
+    <text x="1512.1" y="605.9" class="lot-label">29</text>
+    <polygon id="CANARIA-LOT-030" data-index="30" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1542.4" data-cy="578.3" class="lot-poly" fill="#6CC6AE" points="1514,520 1486,545 1571,637 1598,611" />
+    <text x="1542.4" y="578.3" class="lot-label">30</text>
+    <polygon id="CANARIA-LOT-031" data-index="31" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1575.3" data-cy="547.5" class="lot-poly" fill="#6CC6AE" points="1540,497 1517,518 1601,610 1617,594 1624,562 1566,499" />
+    <text x="1575.3" y="547.5" class="lot-label">31</text>
+    <polygon id="CANARIA-LOT-032" data-index="32" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="1882.9" data-cy="568.6" class="lot-poly" fill="#BAC46B" points="1856,503 1856,625 1882,637 1909,637 1909,503" />
+    <text x="1882.9" y="568.6" class="lot-label">32</text>
+    <polygon id="CANARIA-LOT-033" data-index="33" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="1933.5" data-cy="570.0" class="lot-poly" fill="#BAC46B" points="1911,503 1911,637 1956,637 1956,503" />
+    <text x="1933.5" y="570.0" class="lot-label">33</text>
+    <polygon id="CANARIA-LOT-034" data-index="34" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="1981.5" data-cy="570.0" class="lot-poly" fill="#BAC46B" points="1959,503 1959,637 2004,637 2004,503" />
+    <text x="1981.5" y="570.0" class="lot-label">34</text>
+    <polygon id="CANARIA-LOT-035" data-index="35" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2029.5" data-cy="578.4" class="lot-poly" fill="#BAC46B" points="2007,516 2007,637 2052,637 2052,520 2013,520" />
+    <text x="2029.5" y="578.4" class="lot-label">35</text>
+    <polygon id="CANARIA-LOT-036" data-index="36" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2078.0" data-cy="578.5" class="lot-poly" fill="#BAC46B" points="2055,520 2055,637 2101,637 2101,520" />
+    <text x="2078.0" y="578.5" class="lot-label">36</text>
+    <polygon id="CANARIA-LOT-037" data-index="37" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2126.0" data-cy="578.5" class="lot-poly" fill="#BAC46B" points="2104,520 2104,637 2148,637 2148,520" />
+    <text x="2126.0" y="578.5" class="lot-label">37</text>
+    <polygon id="CANARIA-LOT-038" data-index="38" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2173.5" data-cy="578.4" class="lot-poly" fill="#BAC46B" points="2196,516 2190,520 2151,520 2151,637 2196,637" />
+    <text x="2173.5" y="578.4" class="lot-label">38</text>
+    <polygon id="CANARIA-LOT-039" data-index="39" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2221.0" data-cy="570.0" class="lot-poly" fill="#BAC46B" points="2199,503 2199,637 2243,637 2243,503" />
+    <text x="2221.0" y="570.0" class="lot-label">39</text>
+    <polygon id="CANARIA-LOT-040" data-index="40" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2269.0" data-cy="570.0" class="lot-poly" fill="#BAC46B" points="2246,503 2246,637 2292,637 2292,503" />
+    <text x="2269.0" y="570.0" class="lot-label">40</text>
+    <polygon id="CANARIA-LOT-041" data-index="41" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2317.5" data-cy="570.0" class="lot-poly" fill="#BAC46B" points="2295,503 2295,637 2340,637 2340,503" />
+    <text x="2317.5" y="570.0" class="lot-label">41</text>
+    <polygon id="CANARIA-LOT-042" data-index="42" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2365.5" data-cy="570.0" class="lot-poly" fill="#BAC46B" points="2343,503 2343,637 2388,637 2388,503" />
+    <text x="2365.5" y="570.0" class="lot-label">42</text>
+    <polygon id="CANARIA-LOT-043" data-index="43" data-type="townhouse_7x19.5" data-type-name="Nhà phố vườn (7m x 19.5m)" data-cx="2413.0" data-cy="570.0" class="lot-poly" fill="#BAC46B" points="2391,503 2391,637 2435,637 2435,503" />
+    <text x="2413.0" y="570.0" class="lot-label">43</text>
+    <polygon id="CANARIA-LOT-044" data-index="44" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2503.5" data-cy="570.0" class="lot-poly" fill="#8BA1D2" points="2464,503 2464,637 2543,637 2543,503" />
+    <text x="2503.5" y="570.0" class="lot-label">44</text>
+    <polygon id="CANARIA-LOT-045" data-index="45" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2585.5" data-cy="570.0" class="lot-poly" fill="#8BA1D2" points="2546,503 2546,637 2625,637 2625,503" />
+    <text x="2585.5" y="570.0" class="lot-label">45</text>
+    <polygon id="CANARIA-LOT-046" data-index="46" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2668.0" data-cy="570.0" class="lot-poly" fill="#8BA1D2" points="2628,503 2628,637 2708,637 2708,503" />
+    <text x="2668.0" y="570.0" class="lot-label">46</text>
+    <polygon id="CANARIA-LOT-047" data-index="47" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2749.3" data-cy="571.2" class="lot-poly" fill="#8BA1D2" points="2710,503 2710,637 2790,637 2790,520 2777,514 2776,503" />
+    <text x="2749.3" y="571.2" class="lot-label">47</text>
+    <polygon id="CANARIA-LOT-048" data-index="48" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2832.5" data-cy="578.5" class="lot-poly" fill="#8BA1D2" points="2793,520 2793,637 2872,637 2872,520" />
+    <text x="2832.5" y="578.5" class="lot-label">48</text>
+    <polygon id="CANARIA-LOT-049" data-index="49" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2914.5" data-cy="578.5" class="lot-poly" fill="#8BA1D2" points="2875,520 2875,637 2954,637 2954,520" />
+    <text x="2914.5" y="578.5" class="lot-label">49</text>
+    <polygon id="CANARIA-LOT-050" data-index="50" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2997.1" data-cy="571.1" class="lot-poly" fill="#8BA1D2" points="2970,503 2969,515 2957,520 2957,637 3036,637 3036,503" />
+    <text x="2997.1" y="571.1" class="lot-label">50</text>
+    <polygon id="CANARIA-LOT-051" data-index="51" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3079.0" data-cy="570.0" class="lot-poly" fill="#8BA1D2" points="3039,503 3039,637 3119,637 3119,503" />
+    <text x="3079.0" y="570.0" class="lot-label">51</text>
+    <polygon id="CANARIA-LOT-052" data-index="52" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3161.0" data-cy="570.0" class="lot-poly" fill="#8BA1D2" points="3121,503 3121,637 3201,637 3201,503" />
+    <text x="3161.0" y="570.0" class="lot-label">52</text>
+    <polygon id="CANARIA-LOT-053" data-index="53" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3243.3" data-cy="569.6" class="lot-poly" fill="#8BA1D2" points="3204,503 3204,637 3272,637 3283,625 3283,503" />
+    <text x="3243.3" y="569.6" class="lot-label">53</text>
+    <polygon id="CANARIA-LOT-054" data-index="54" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3461.7" data-cy="652.5" class="lot-poly" fill="#8BA1D2" points="3409,588 3379,661 3521,719 3539,640" />
+    <text x="3461.7" y="652.5" class="lot-label">54</text>
+    <polygon id="CANARIA-LOT-055" data-index="55" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3487.9" data-cy="574.4" class="lot-poly" fill="#8BA1D2" points="3438,514 3410,585 3540,637 3564,562" />
+    <text x="3487.9" y="574.4" class="lot-label">55</text>
+    <polygon id="CANARIA-LOT-056" data-index="56" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1330.1" data-cy="771.1" class="lot-poly" fill="#6CC6AE" points="1302,712 1274,738 1358,830 1386,804" />
+    <text x="1330.1" y="771.1" class="lot-label">56</text>
+    <polygon id="CANARIA-LOT-057" data-index="57" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1360.4" data-cy="743.6" class="lot-poly" fill="#6CC6AE" points="1332,685 1304,710 1389,802 1416,776" />
+    <text x="1360.4" y="743.6" class="lot-label">57</text>
+    <polygon id="CANARIA-LOT-058" data-index="58" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1390.7" data-cy="716.0" class="lot-poly" fill="#6CC6AE" points="1363,657 1335,683 1419,775 1446,749" />
+    <text x="1390.7" y="716.0" class="lot-label">58</text>
+    <polygon id="CANARIA-LOT-059" data-index="59" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1421.1" data-cy="688.5" class="lot-poly" fill="#6CC6AE" points="1393,629 1365,655 1449,748 1477,722" />
+    <text x="1421.1" y="688.5" class="lot-label">59</text>
+    <polygon id="CANARIA-LOT-060" data-index="60" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1451.5" data-cy="661.0" class="lot-poly" fill="#6CC6AE" points="1423,602 1396,628 1480,720 1507,694" />
+    <text x="1451.5" y="661.0" class="lot-label">60</text>
+    <polygon id="CANARIA-LOT-061" data-index="61" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1619.6" data-cy="777.9" class="lot-poly" fill="#6CC6AE" points="1597,725 1569,751 1642,831 1670,805" />
+    <text x="1619.6" y="777.9" class="lot-label">61</text>
+    <polygon id="CANARIA-LOT-062" data-index="62" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1654.2" data-cy="754.2" class="lot-poly" fill="#6CC6AE" points="1627,698 1599,723 1672,803 1684,798 1694,806 1712,790" />
+    <text x="1654.2" y="754.2" class="lot-label">62</text>
+    <polygon id="CANARIA-LOT-063" data-index="63" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1685.4" data-cy="728.9" class="lot-poly" fill="#6CC6AE" points="1657,670 1630,696 1714,788 1741,762" />
+    <text x="1685.4" y="728.9" class="lot-label">63</text>
+    <polygon id="CANARIA-LOT-064" data-index="64" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1723.7" data-cy="701.0" class="lot-poly" fill="#6CC6AE" points="1660,668 1743,760 1783,725 1724,659 1675,654" />
+    <text x="1723.7" y="701.0" class="lot-label">64</text>
+    <polygon id="CANARIA-LOT-065" data-index="65" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2299.0" data-cy="778.0" class="lot-poly" fill="#C48BBD" points="2273,718 2273,838 2325,838 2325,718" />
+    <text x="2299.0" y="778.0" class="lot-label">65</text>
+    <polygon id="CANARIA-LOT-066" data-index="66" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2354.0" data-cy="778.0" class="lot-poly" fill="#C48BBD" points="2328,718 2328,838 2380,838 2380,718" />
+    <text x="2354.0" y="778.0" class="lot-label">66</text>
+    <polygon id="CANARIA-LOT-067" data-index="67" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2832.5" data-cy="777.0" class="lot-poly" fill="#8BA1D2" points="2793,718 2793,836 2872,836 2872,718" />
+    <text x="2832.5" y="777.0" class="lot-label">67</text>
+    <polygon id="CANARIA-LOT-068" data-index="68" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2914.5" data-cy="777.0" class="lot-poly" fill="#8BA1D2" points="2875,718 2875,836 2954,836 2954,718" />
+    <text x="2914.5" y="777.0" class="lot-label">68</text>
+    <polygon id="CANARIA-LOT-069" data-index="69" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1191.4" data-cy="899.7" class="lot-poly" fill="#6CC6AE" points="1163,841 1135,866 1220,958 1247,933" />
+    <text x="1191.4" y="899.7" class="lot-label">69</text>
+    <polygon id="CANARIA-LOT-070" data-index="70" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1221.7" data-cy="872.1" class="lot-poly" fill="#6CC6AE" points="1194,813 1166,839 1250,931 1278,906" />
+    <text x="1221.7" y="872.1" class="lot-label">70</text>
+    <polygon id="CANARIA-LOT-071" data-index="71" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1252.0" data-cy="844.7" class="lot-poly" fill="#6CC6AE" points="1224,786 1196,811 1280,904 1308,878" />
+    <text x="1252.0" y="844.7" class="lot-label">71</text>
+    <polygon id="CANARIA-LOT-072" data-index="72" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1299.7" data-cy="798.7" class="lot-poly" fill="#6CC6AE" points="1271,740 1244,766 1329,857 1356,832" />
+    <text x="1299.7" y="798.7" class="lot-label">72</text>
+    <polygon id="CANARIA-LOT-073" data-index="73" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1502.1" data-cy="892.9" class="lot-poly" fill="#6CC6AE" points="1476,835 1448,861 1533,953 1550,937 1544,930 1549,915" />
+    <text x="1502.1" y="892.9" class="lot-label">73</text>
+    <polygon id="CANARIA-LOT-074" data-index="74" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1528.9" data-cy="860.7" class="lot-poly" fill="#6CC6AE" points="1506,808 1479,834 1552,913 1579,887" />
+    <text x="1528.9" y="860.7" class="lot-label">74</text>
+    <polygon id="CANARIA-LOT-075" data-index="75" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1559.1" data-cy="833.1" class="lot-poly" fill="#6CC6AE" points="1536,781 1509,806 1582,886 1609,860" />
+    <text x="1559.1" y="833.1" class="lot-label">75</text>
+    <polygon id="CANARIA-LOT-076" data-index="76" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1589.3" data-cy="805.5" class="lot-poly" fill="#6CC6AE" points="1566,753 1539,779 1612,858 1640,833" />
+    <text x="1589.3" y="805.5" class="lot-label">76</text>
+    <polygon id="CANARIA-LOT-077" data-index="77" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1716.7" data-cy="884.5" class="lot-poly" fill="#6CC6AE" points="1695,832 1667,858 1739,937 1767,911" />
+    <text x="1716.7" y="884.5" class="lot-label">77</text>
+    <polygon id="CANARIA-LOT-078" data-index="78" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1743.5" data-cy="852.2" class="lot-poly" fill="#6CC6AE" points="1714,792 1696,808 1703,820 1697,830 1770,909 1797,884" />
+    <text x="1743.5" y="852.2" class="lot-label">78</text>
+    <polygon id="CANARIA-LOT-079" data-index="79" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1771.4" data-cy="823.2" class="lot-poly" fill="#6CC6AE" points="1743,765 1716,790 1799,882 1827,856" />
+    <text x="1771.4" y="823.2" class="lot-label">79</text>
+    <polygon id="CANARIA-LOT-080" data-index="80" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1802.7" data-cy="787.9" class="lot-poly" fill="#6CC6AE" points="1785,727 1746,763 1830,854 1845,840 1844,791" />
+    <text x="1802.7" y="787.9" class="lot-label">80</text>
+    <polygon id="CANARIA-LOT-081" data-index="81" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2076.5" data-cy="786.5" class="lot-poly" fill="#C48BBD" points="2047,718 2047,855 2106,855 2106,718" />
+    <text x="2076.5" y="786.5" class="lot-label">81</text>
+    <polygon id="CANARIA-LOT-082" data-index="82" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2135.0" data-cy="786.5" class="lot-poly" fill="#C48BBD" points="2109,718 2109,855 2161,855 2161,718" />
+    <text x="2135.0" y="786.5" class="lot-label">82</text>
+    <polygon id="CANARIA-LOT-083" data-index="83" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2190.0" data-cy="786.5" class="lot-poly" fill="#C48BBD" points="2164,718 2164,855 2216,855 2216,718" />
+    <text x="2190.0" y="786.5" class="lot-label">83</text>
+    <polygon id="CANARIA-LOT-084" data-index="84" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2244.4" data-cy="780.2" class="lot-poly" fill="#C48BBD" points="2271,718 2219,718 2219,855 2230,855 2237,838 2271,838" />
+    <text x="2244.4" y="780.2" class="lot-label">84</text>
+    <polygon id="CANARIA-LOT-085" data-index="85" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2409.6" data-cy="780.1" class="lot-poly" fill="#C48BBD" points="2383,718 2383,838 2418,838 2424,855 2435,855 2435,718" />
+    <text x="2409.6" y="780.1" class="lot-label">85</text>
+    <polygon id="CANARIA-LOT-086" data-index="86" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2503.5" data-cy="786.5" class="lot-poly" fill="#8BA1D2" points="2464,718 2464,855 2543,855 2543,718" />
+    <text x="2503.5" y="786.5" class="lot-label">86</text>
+    <polygon id="CANARIA-LOT-087" data-index="87" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2585.5" data-cy="786.5" class="lot-poly" fill="#8BA1D2" points="2546,718 2546,855 2625,855 2625,718" />
+    <text x="2585.5" y="786.5" class="lot-label">87</text>
+    <polygon id="CANARIA-LOT-088" data-index="88" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2668.0" data-cy="786.5" class="lot-poly" fill="#8BA1D2" points="2628,718 2628,855 2708,855 2708,718" />
+    <text x="2668.0" y="786.5" class="lot-label">88</text>
+    <polygon id="CANARIA-LOT-089" data-index="89" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2749.2" data-cy="785.2" class="lot-poly" fill="#8BA1D2" points="2710,718 2710,855 2776,855 2778,840 2790,836 2790,718" />
+    <text x="2749.2" y="785.2" class="lot-label">89</text>
+    <polygon id="CANARIA-LOT-090" data-index="90" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2997.2" data-cy="785.2" class="lot-poly" fill="#8BA1D2" points="2957,718 2957,836 2970,842 2970,855 3036,855 3036,718" />
+    <text x="2997.2" y="785.2" class="lot-label">90</text>
+    <polygon id="CANARIA-LOT-091" data-index="91" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3079.0" data-cy="786.5" class="lot-poly" fill="#8BA1D2" points="3039,718 3039,855 3119,855 3119,718" />
+    <text x="3079.0" y="786.5" class="lot-label">91</text>
+    <polygon id="CANARIA-LOT-092" data-index="92" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3161.0" data-cy="786.5" class="lot-poly" fill="#8BA1D2" points="3121,718 3121,855 3201,855 3201,718" />
+    <text x="3161.0" y="786.5" class="lot-label">92</text>
+    <polygon id="CANARIA-LOT-093" data-index="93" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3242.6" data-cy="788.3" class="lot-poly" fill="#8BA1D2" points="3204,718 3204,855 3283,855 3283,743 3258,718" />
+    <text x="3242.6" y="788.3" class="lot-label">93</text>
+    <polygon id="CANARIA-LOT-094" data-index="94" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3440.3" data-cy="835.9" class="lot-poly" fill="#8BA1D2" points="3353,788 3354,882 3528,882 3528,792" />
+    <text x="3440.3" y="835.9" class="lot-label">94</text>
+    <polygon id="CANARIA-LOT-095" data-index="95" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1070.0" data-cy="1009.8" class="lot-poly" fill="#6CC6AE" points="1042,951 1014,977 1098,1069 1126,1043" />
+    <text x="1070.0" y="1009.8" class="lot-label">95</text>
+    <polygon id="CANARIA-LOT-096" data-index="96" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1100.3" data-cy="982.3" class="lot-poly" fill="#6CC6AE" points="1071,924 1044,949 1129,1041 1156,1015" />
+    <text x="1100.3" y="982.3" class="lot-label">96</text>
+    <polygon id="CANARIA-LOT-097" data-index="97" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1130.7" data-cy="954.8" class="lot-poly" fill="#6CC6AE" points="1102,896 1075,922 1159,1014 1187,988" />
+    <text x="1130.7" y="954.8" class="lot-label">97</text>
+    <polygon id="CANARIA-LOT-098" data-index="98" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1161.1" data-cy="927.2" class="lot-poly" fill="#6CC6AE" points="1133,868 1105,894 1189,986 1217,960" />
+    <text x="1161.1" y="927.2" class="lot-label">98</text>
+    <polygon id="CANARIA-LOT-099" data-index="99" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1393.5" data-cy="996.1" class="lot-poly" fill="#6CC6AE" points="1365,938 1338,963 1421,1055 1449,1029" />
+    <text x="1393.5" y="996.1" class="lot-label">99</text>
+    <polygon id="CANARIA-LOT-100" data-index="100" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1443.7" data-cy="949.7" class="lot-poly" fill="#6CC6AE" points="1415,891 1388,917 1472,1009 1500,983" />
+    <text x="1443.7" y="949.7" class="lot-label">100</text>
+    <polygon id="CANARIA-LOT-101" data-index="101" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1474.0" data-cy="922.0" class="lot-poly" fill="#6CC6AE" points="1446,863 1418,889 1502,981 1530,955" />
+    <text x="1474.0" y="922.0" class="lot-label">101</text>
+    <polygon id="CANARIA-LOT-102" data-index="102" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1559.8" data-cy="1016.2" class="lot-poly" fill="#6CC6AE" points="1532,958 1504,983 1587,1075 1615,1049" />
+    <text x="1559.8" y="1016.2" class="lot-label">102</text>
+    <polygon id="CANARIA-LOT-103" data-index="103" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1591.3" data-cy="990.9" class="lot-poly" fill="#6CC6AE" points="1552,939 1536,958 1618,1047 1646,1022 1574,943 1561,947" />
+    <text x="1591.3" y="990.9" class="lot-label">103</text>
+    <polygon id="CANARIA-LOT-104" data-index="104" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1626.0" data-cy="967.3" class="lot-poly" fill="#6CC6AE" points="1604,915 1576,941 1648,1020 1676,994" />
+    <text x="1626.0" y="967.3" class="lot-label">104</text>
+    <polygon id="CANARIA-LOT-105" data-index="105" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1656.2" data-cy="939.7" class="lot-poly" fill="#6CC6AE" points="1634,887 1606,913 1678,992 1706,966" />
+    <text x="1656.2" y="939.7" class="lot-label">105</text>
+    <polygon id="CANARIA-LOT-106" data-index="106" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1686.4" data-cy="912.2" class="lot-poly" fill="#6CC6AE" points="1664,860 1637,886 1709,964 1737,939" />
+    <text x="1686.4" y="912.2" class="lot-label">106</text>
+    <polygon id="CANARIA-LOT-107" data-index="107" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1884.8" data-cy="998.9" class="lot-poly" fill="#6CC6AE" points="1857,942 1830,968 1902,1047 1914,1044 1923,1052 1942,1034" />
+    <text x="1884.8" y="998.9" class="lot-label">107</text>
+    <polygon id="CANARIA-LOT-108" data-index="108" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1915.7" data-cy="973.2" class="lot-poly" fill="#6CC6AE" points="1887,915 1860,940 1944,1032 1971,1006" />
+    <text x="1915.7" y="973.2" class="lot-label">108</text>
+    <polygon id="CANARIA-LOT-109" data-index="109" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1954.0" data-cy="945.3" class="lot-poly" fill="#6CC6AE" points="1890,913 1974,1005 2013,969 1954,903 1905,899" />
+    <text x="1954.0" y="945.3" class="lot-label">109</text>
+    <polygon id="CANARIA-LOT-110" data-index="110" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2240.7" data-cy="931.1" class="lot-poly" fill="#C48BBD" points="2212,858 2212,994 2271,994 2271,874 2239,874 2231,868 2230,858" />
+    <text x="2240.7" y="931.1" class="lot-label">110</text>
+    <polygon id="CANARIA-LOT-111" data-index="111" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2299.0" data-cy="934.0" class="lot-poly" fill="#C48BBD" points="2273,874 2273,994 2325,994 2325,874" />
+    <text x="2299.0" y="934.0" class="lot-label">111</text>
+    <polygon id="CANARIA-LOT-112" data-index="112" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2354.0" data-cy="934.0" class="lot-poly" fill="#C48BBD" points="2328,874 2328,994 2380,994 2380,874" />
+    <text x="2354.0" y="934.0" class="lot-label">112</text>
+    <polygon id="CANARIA-LOT-113" data-index="113" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2409.6" data-cy="931.9" class="lot-poly" fill="#C48BBD" points="2435,858 2424,858 2424,867 2416,874 2383,874 2383,994 2435,994" />
+    <text x="2409.6" y="931.9" class="lot-label">113</text>
+    <polygon id="CANARIA-LOT-114" data-index="114" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2503.5" data-cy="926.5" class="lot-poly" fill="#8BA1D2" points="2464,858 2464,995 2543,995 2543,858" />
+    <text x="2503.5" y="926.5" class="lot-label">114</text>
+    <polygon id="CANARIA-LOT-115" data-index="115" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2585.5" data-cy="926.5" class="lot-poly" fill="#8BA1D2" points="2546,858 2546,995 2625,995 2625,858" />
+    <text x="2585.5" y="926.5" class="lot-label">115</text>
+    <polygon id="CANARIA-LOT-116" data-index="116" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2668.0" data-cy="926.5" class="lot-poly" fill="#8BA1D2" points="2628,858 2628,995 2708,995 2708,858" />
+    <text x="2668.0" y="926.5" class="lot-label">116</text>
+    <polygon id="CANARIA-LOT-117" data-index="117" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2749.5" data-cy="927.5" class="lot-poly" fill="#8BA1D2" points="2710,858 2710,995 2790,995 2790,872 2780,870 2776,858" />
+    <text x="2749.5" y="927.5" class="lot-label">117</text>
+    <polygon id="CANARIA-LOT-118" data-index="118" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2832.5" data-cy="933.5" class="lot-poly" fill="#8BA1D2" points="2793,872 2793,995 2872,995 2872,872" />
+    <text x="2832.5" y="933.5" class="lot-label">118</text>
+    <polygon id="CANARIA-LOT-119" data-index="119" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2914.5" data-cy="933.5" class="lot-poly" fill="#8BA1D2" points="2875,872 2875,995 2954,995 2954,872" />
+    <text x="2914.5" y="933.5" class="lot-label">119</text>
+    <polygon id="CANARIA-LOT-120" data-index="120" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2997.0" data-cy="927.4" class="lot-poly" fill="#8BA1D2" points="2970,858 2970,866 2957,872 2957,995 3036,995 3036,858" />
+    <text x="2997.0" y="927.4" class="lot-label">120</text>
+    <polygon id="CANARIA-LOT-121" data-index="121" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3079.0" data-cy="926.5" class="lot-poly" fill="#8BA1D2" points="3039,858 3039,995 3119,995 3119,858" />
+    <text x="3079.0" y="926.5" class="lot-label">121</text>
+    <polygon id="CANARIA-LOT-122" data-index="122" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3161.0" data-cy="926.5" class="lot-poly" fill="#8BA1D2" points="3121,858 3121,995 3201,995 3201,858" />
+    <text x="3161.0" y="926.5" class="lot-label">122</text>
+    <polygon id="CANARIA-LOT-123" data-index="123" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3242.6" data-cy="924.7" class="lot-poly" fill="#8BA1D2" points="3204,858 3204,995 3258,995 3283,970 3283,858" />
+    <text x="3242.6" y="924.7" class="lot-label">123</text>
+    <polygon id="CANARIA-LOT-124" data-index="124" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3446.7" data-cy="924.6" class="lot-poly" fill="#8BA1D2" points="3354,884 3355,963 3548,965 3528,884" />
+    <text x="3446.7" y="924.6" class="lot-label">124</text>
+    <polygon id="CANARIA-LOT-125" data-index="125" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3455.0" data-cy="1006.2" class="lot-poly" fill="#8BA1D2" points="3355,965 3356,1045 3562,1045 3549,968" />
+    <text x="3455.0" y="1006.2" class="lot-label">125</text>
+    <polygon id="CANARIA-LOT-126" data-index="126" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="948.6" data-cy="1120.0" class="lot-poly" fill="#6CC6AE" points="920,1061 893,1087 977,1179 1004,1153" />
+    <text x="948.6" y="1120.0" class="lot-label">126</text>
+    <polygon id="CANARIA-LOT-127" data-index="127" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="979.0" data-cy="1092.5" class="lot-poly" fill="#6CC6AE" points="951,1033 923,1059 1007,1152 1035,1126" />
+    <text x="979.0" y="1092.5" class="lot-label">127</text>
+    <polygon id="CANARIA-LOT-128" data-index="128" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1009.3" data-cy="1064.9" class="lot-poly" fill="#6CC6AE" points="981,1006 954,1032 1037,1124 1065,1098" />
+    <text x="1009.3" y="1064.9" class="lot-label">128</text>
+    <polygon id="CANARIA-LOT-129" data-index="129" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1039.7" data-cy="1037.4" class="lot-poly" fill="#6CC6AE" points="1011,979 984,1004 1068,1096 1096,1071" />
+    <text x="1039.7" y="1037.4" class="lot-label">129</text>
+    <polygon id="CANARIA-LOT-130" data-index="130" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1236.5" data-cy="1127.8" class="lot-poly" fill="#6CC6AE" points="1214,1076 1186,1101 1259,1180 1286,1154" />
+    <text x="1236.5" y="1127.8" class="lot-label">130</text>
+    <polygon id="CANARIA-LOT-131" data-index="131" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1266.8" data-cy="1100.3" class="lot-poly" fill="#6CC6AE" points="1245,1048 1217,1074 1289,1153 1317,1127" />
+    <text x="1266.8" y="1100.3" class="lot-label">131</text>
+    <polygon id="CANARIA-LOT-132" data-index="132" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1297.0" data-cy="1072.7" class="lot-poly" fill="#6CC6AE" points="1275,1020 1247,1046 1319,1125 1347,1099" />
+    <text x="1297.0" y="1072.7" class="lot-label">132</text>
+    <polygon id="CANARIA-LOT-133" data-index="133" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1331.5" data-cy="1048.9" class="lot-poly" fill="#6CC6AE" points="1305,993 1277,1018 1349,1097 1362,1092 1372,1100 1387,1082" />
+    <text x="1331.5" y="1048.9" class="lot-label">133</text>
+    <polygon id="CANARIA-LOT-134" data-index="134" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1363.2" data-cy="1023.7" class="lot-poly" fill="#6CC6AE" points="1336,965 1308,991 1391,1082 1419,1057" />
+    <text x="1363.2" y="1023.7" class="lot-label">134</text>
+    <polygon id="CANARIA-LOT-135" data-index="135" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1449.0" data-cy="1118.0" class="lot-poly" fill="#6CC6AE" points="1421,1059 1393,1085 1477,1177 1505,1151" />
+    <text x="1449.0" y="1118.0" class="lot-label">135</text>
+    <polygon id="CANARIA-LOT-136" data-index="136" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1479.3" data-cy="1090.3" class="lot-poly" fill="#6CC6AE" points="1451,1031 1423,1057 1508,1149 1535,1123" />
+    <text x="1479.3" y="1090.3" class="lot-label">136</text>
+    <polygon id="CANARIA-LOT-137" data-index="137" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1529.5" data-cy="1043.9" class="lot-poly" fill="#6CC6AE" points="1502,985 1474,1011 1557,1103 1585,1077" />
+    <text x="1529.5" y="1043.9" class="lot-label">137</text>
+    <polygon id="CANARIA-LOT-138" data-index="138" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1732.1" data-cy="1137.1" class="lot-poly" fill="#6CC6AE" points="1706,1080 1679,1106 1763,1198 1779,1183 1772,1174 1779,1159" />
+    <text x="1732.1" y="1137.1" class="lot-label">138</text>
+    <polygon id="CANARIA-LOT-139" data-index="139" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1759.0" data-cy="1104.9" class="lot-poly" fill="#6CC6AE" points="1736,1053 1709,1078 1782,1157 1809,1131" />
+    <text x="1759.0" y="1104.9" class="lot-label">139</text>
+    <polygon id="CANARIA-LOT-140" data-index="140" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1789.2" data-cy="1077.3" class="lot-poly" fill="#6CC6AE" points="1767,1025 1739,1051 1813,1129 1839,1103" />
+    <text x="1789.2" y="1077.3" class="lot-label">140</text>
+    <polygon id="CANARIA-LOT-141" data-index="141" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1819.4" data-cy="1049.7" class="lot-poly" fill="#6CC6AE" points="1797,997 1769,1023 1842,1102 1869,1076" />
+    <text x="1819.4" y="1049.7" class="lot-label">141</text>
+    <polygon id="CANARIA-LOT-142" data-index="142" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1849.7" data-cy="1022.0" class="lot-poly" fill="#6CC6AE" points="1827,970 1799,995 1872,1075 1900,1049" />
+    <text x="1849.7" y="1022.0" class="lot-label">142</text>
+    <polygon id="CANARIA-LOT-143" data-index="143" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1946.9" data-cy="1128.6" class="lot-poly" fill="#6CC6AE" points="1924,1076 1897,1102 1970,1181 1997,1155" />
+    <text x="1946.9" y="1128.6" class="lot-label">143</text>
+    <polygon id="CANARIA-LOT-144" data-index="144" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1973.5" data-cy="1096.2" class="lot-poly" fill="#6CC6AE" points="1944,1036 1925,1054 1931,1063 1927,1074 2000,1153 2028,1128" />
+    <text x="1973.5" y="1096.2" class="lot-label">144</text>
+    <polygon id="CANARIA-LOT-145" data-index="145" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2001.8" data-cy="1067.5" class="lot-poly" fill="#6CC6AE" points="1974,1009 1946,1034 2030,1126 2057,1100" />
+    <text x="2001.8" y="1067.5" class="lot-label">145</text>
+    <polygon id="CANARIA-LOT-146" data-index="146" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2033.1" data-cy="1032.0" class="lot-poly" fill="#6CC6AE" points="2015,971 1976,1007 2060,1098 2075,1084 2075,1036" />
+    <text x="2033.1" y="1032.0" class="lot-label">146</text>
+    <polygon id="CANARIA-LOT-147" data-index="147" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2377.9" data-cy="1139.0" class="lot-poly" fill="#C48BBD" points="2347,1071 2347,1192 2361,1209 2408,1209 2408,1071" />
+    <text x="2377.9" y="1139.0" class="lot-label">147</text>
+    <polygon id="CANARIA-LOT-148" data-index="148" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2436.4" data-cy="1134.0" class="lot-poly" fill="#C48BBD" points="2463,1071 2411,1071 2411,1209 2422,1209 2429,1193 2463,1193" />
+    <text x="2436.4" y="1134.0" class="lot-label">148</text>
+    <polygon id="CANARIA-LOT-149" data-index="149" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2491.0" data-cy="1132.0" class="lot-poly" fill="#C48BBD" points="2465,1071 2465,1193 2517,1193 2517,1071" />
+    <text x="2491.0" y="1132.0" class="lot-label">149</text>
+    <polygon id="CANARIA-LOT-150" data-index="150" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2546.0" data-cy="1132.0" class="lot-poly" fill="#C48BBD" points="2520,1071 2520,1193 2572,1193 2572,1071" />
+    <text x="2546.0" y="1132.0" class="lot-label">150</text>
+    <polygon id="CANARIA-LOT-151" data-index="151" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2601.6" data-cy="1134.1" class="lot-poly" fill="#C48BBD" points="2575,1071 2575,1193 2609,1193 2616,1209 2627,1209 2627,1071" />
+    <text x="2601.6" y="1134.1" class="lot-label">151</text>
+    <polygon id="CANARIA-LOT-152" data-index="152" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2913.4" data-cy="1136.9" class="lot-poly" fill="#8BA1D2" points="2875,1075 2875,1209 2900,1209 2906,1193 2954,1193 2954,1075" />
+    <text x="2913.4" y="1136.9" class="lot-label">152</text>
+    <polygon id="CANARIA-LOT-153" data-index="153" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2996.5" data-cy="1134.0" class="lot-poly" fill="#8BA1D2" points="2957,1075 2957,1193 3036,1193 3036,1075" />
+    <text x="2996.5" y="1134.0" class="lot-label">153</text>
+    <polygon id="CANARIA-LOT-154" data-index="154" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3080.1" data-cy="1136.8" class="lot-poly" fill="#8BA1D2" points="3039,1075 3039,1193 3087,1193 3094,1209 3119,1209 3119,1075" />
+    <text x="3080.1" y="1136.8" class="lot-label">154</text>
+    <polygon id="CANARIA-LOT-155" data-index="155" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3464.3" data-cy="1088.1" class="lot-poly" fill="#8BA1D2" points="3356,1048 3357,1127 3582,1127 3563,1048" />
+    <text x="3464.3" y="1088.1" class="lot-label">155</text>
+    <polygon id="CANARIA-LOT-156" data-index="156" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="918.3" data-cy="1147.5" class="lot-poly" fill="#6CC6AE" points="890,1089 862,1114 947,1206 974,1181" />
+    <text x="918.3" y="1147.5" class="lot-label">156</text>
+    <polygon id="CANARIA-LOT-157" data-index="157" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1120.1" data-cy="1252.1" class="lot-poly" fill="#6CC6AE" points="1093,1186 1078,1200 1078,1248 1138,1313 1177,1277" />
+    <text x="1120.1" y="1252.1" class="lot-label">157</text>
+    <polygon id="CANARIA-LOT-158" data-index="158" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1151.5" data-cy="1216.7" class="lot-poly" fill="#6CC6AE" points="1124,1158 1096,1184 1180,1275 1207,1250" />
+    <text x="1151.5" y="1216.7" class="lot-label">158</text>
+    <polygon id="CANARIA-LOT-159" data-index="159" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1179.6" data-cy="1187.9" class="lot-poly" fill="#6CC6AE" points="1153,1131 1126,1156 1209,1248 1228,1231 1221,1222 1226,1210" />
+    <text x="1179.6" y="1187.9" class="lot-label">159</text>
+    <polygon id="CANARIA-LOT-160" data-index="160" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1206.2" data-cy="1155.5" class="lot-poly" fill="#6CC6AE" points="1184,1103 1156,1129 1228,1208 1256,1182" />
+    <text x="1206.2" y="1155.5" class="lot-label">160</text>
+    <polygon id="CANARIA-LOT-161" data-index="161" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1333.6" data-cy="1234.5" class="lot-poly" fill="#6CC6AE" points="1311,1182 1283,1207 1357,1287 1384,1261" />
+    <text x="1333.6" y="1234.5" class="lot-label">161</text>
+    <polygon id="CANARIA-LOT-162" data-index="162" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1363.8" data-cy="1206.8" class="lot-poly" fill="#6CC6AE" points="1341,1154 1314,1181 1387,1259 1414,1234" />
+    <text x="1363.8" y="1206.8" class="lot-label">162</text>
+    <polygon id="CANARIA-LOT-163" data-index="163" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1394.1" data-cy="1179.3" class="lot-poly" fill="#6CC6AE" points="1371,1127 1343,1152 1417,1232 1444,1206" />
+    <text x="1394.1" y="1179.3" class="lot-label">163</text>
+    <polygon id="CANARIA-LOT-164" data-index="164" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1421.0" data-cy="1147.2" class="lot-poly" fill="#6CC6AE" points="1390,1087 1374,1102 1380,1110 1374,1125 1447,1205 1475,1179" />
+    <text x="1421.0" y="1147.2" class="lot-label">164</text>
+    <polygon id="CANARIA-LOT-165" data-index="165" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1622.7" data-cy="1241.8" class="lot-poly" fill="#6CC6AE" points="1594,1183 1567,1209 1651,1301 1678,1275" />
+    <text x="1622.7" y="1241.8" class="lot-label">165</text>
+    <polygon id="CANARIA-LOT-166" data-index="166" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1674.2" data-cy="1194.3" class="lot-poly" fill="#6CC6AE" points="1646,1135 1618,1161 1703,1253 1730,1227" />
+    <text x="1674.2" y="1194.3" class="lot-label">166</text>
+    <polygon id="CANARIA-LOT-167" data-index="167" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1704.5" data-cy="1166.6" class="lot-poly" fill="#6CC6AE" points="1676,1108 1648,1133 1733,1225 1761,1200" />
+    <text x="1704.5" y="1166.6" class="lot-label">167</text>
+    <polygon id="CANARIA-LOT-168" data-index="168" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1822.0" data-cy="1235.5" class="lot-poly" fill="#6CC6AE" points="1781,1185 1766,1202 1848,1292 1876,1266 1804,1187 1788,1192" />
+    <text x="1822.0" y="1235.5" class="lot-label">168</text>
+    <polygon id="CANARIA-LOT-169" data-index="169" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1856.2" data-cy="1211.4" class="lot-poly" fill="#6CC6AE" points="1833,1159 1806,1185 1879,1264 1906,1238" />
+    <text x="1856.2" y="1211.4" class="lot-label">169</text>
+    <polygon id="CANARIA-LOT-170" data-index="170" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1886.4" data-cy="1183.8" class="lot-poly" fill="#6CC6AE" points="1864,1131 1836,1157 1909,1236 1937,1211" />
+    <text x="1886.4" y="1183.8" class="lot-label">170</text>
+    <polygon id="CANARIA-LOT-171" data-index="171" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1916.6" data-cy="1156.2" class="lot-poly" fill="#6CC6AE" points="1894,1104 1866,1129 1939,1209 1967,1183" />
+    <text x="1916.6" y="1156.2" class="lot-label">171</text>
+    <polygon id="CANARIA-LOT-172" data-index="172" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2114.1" data-cy="1253.3" class="lot-poly" fill="#6CC6AE" points="2087,1196 2059,1222 2131,1301 2144,1298 2153,1306 2171,1288" />
+    <text x="2114.1" y="1253.3" class="lot-label">172</text>
+    <polygon id="CANARIA-LOT-173" data-index="173" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2145.1" data-cy="1227.7" class="lot-poly" fill="#6CC6AE" points="2117,1169 2089,1194 2174,1286 2201,1261" />
+    <text x="2145.1" y="1227.7" class="lot-label">173</text>
+    <polygon id="CANARIA-LOT-174" data-index="174" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2183.4" data-cy="1199.9" class="lot-poly" fill="#6CC6AE" points="2119,1167 2203,1259 2243,1223 2184,1158 2135,1153" />
+    <text x="2183.4" y="1199.9" class="lot-label">174</text>
+    <polygon id="CANARIA-LOT-175" data-index="175" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2656.0" data-cy="1140.0" class="lot-poly" fill="#C48BBD" points="2630,1071 2630,1209 2682,1209 2682,1071" />
+    <text x="2656.0" y="1140.0" class="lot-label">175</text>
+    <polygon id="CANARIA-LOT-176" data-index="176" data-type="villa_detached" data-type-name="Biệt thự đơn lập" data-cx="2750.0" data-cy="1142.0" class="lot-poly" fill="#FFEEA3" points="2710,1075 2710,1209 2790,1209 2790,1075" />
+    <text x="2750.0" y="1142.0" class="lot-label">176</text>
+    <polygon id="CANARIA-LOT-177" data-index="177" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2832.5" data-cy="1142.0" class="lot-poly" fill="#8BA1D2" points="2793,1075 2793,1209 2872,1209 2872,1075" />
+    <text x="2832.5" y="1142.0" class="lot-label">177</text>
+    <polygon id="CANARIA-LOT-178" data-index="178" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3161.0" data-cy="1142.0" class="lot-poly" fill="#8BA1D2" points="3121,1075 3121,1209 3201,1209 3201,1075" />
+    <text x="3161.0" y="1142.0" class="lot-label">178</text>
+    <polygon id="CANARIA-LOT-179" data-index="179" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3242.6" data-cy="1143.7" class="lot-poly" fill="#8BA1D2" points="3204,1075 3204,1209 3283,1209 3283,1099 3258,1075" />
+    <text x="3242.6" y="1143.7" class="lot-label">179</text>
+    <polygon id="CANARIA-LOT-180" data-index="180" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3473.6" data-cy="1170.4" class="lot-poly" fill="#8BA1D2" points="3357,1130 3357,1209 3597,1210 3582,1130" />
+    <text x="3473.6" y="1170.4" class="lot-label">180</text>
+    <polygon id="CANARIA-LOT-181" data-index="181" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3476.0" data-cy="1251.6" class="lot-poly" fill="#8BA1D2" points="3357,1212 3358,1292 3590,1287 3598,1213" />
+    <text x="3476.0" y="1251.6" class="lot-label">181</text>
+    <polygon id="CANARIA-LOT-182" data-index="182" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="912.9" data-cy="1274.5" class="lot-poly" fill="#F595A9" points="946,1218 854,1302 880,1331 972,1247" />
+    <text x="912.9" y="1274.5" class="lot-label">182</text>
+    <polygon id="CANARIA-LOT-183" data-index="183" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="941.0" data-cy="1305.4" class="lot-poly" fill="#F595A9" points="974,1249 882,1333 908,1362 1000,1278" />
+    <text x="941.0" y="1305.4" class="lot-label">183</text>
+    <polygon id="CANARIA-LOT-184" data-index="184" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="969.2" data-cy="1336.2" class="lot-poly" fill="#F595A9" points="1003,1280 910,1364 936,1393 1028,1309" />
+    <text x="969.2" y="1336.2" class="lot-label">184</text>
+    <polygon id="CANARIA-LOT-185" data-index="185" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="997.4" data-cy="1367.1" class="lot-poly" fill="#F595A9" points="1031,1311 938,1395 964,1423 1057,1339" />
+    <text x="997.4" y="1367.1" class="lot-label">185</text>
+    <polygon id="CANARIA-LOT-186" data-index="186" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1199.2" data-cy="1339.0" class="lot-poly" fill="#6CC6AE" points="1140,1315 1199,1381 1247,1386 1263,1372 1180,1280" />
+    <text x="1199.2" y="1339.0" class="lot-label">186</text>
+    <polygon id="CANARIA-LOT-187" data-index="187" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1237.5" data-cy="1311.1" class="lot-poly" fill="#6CC6AE" points="1209,1252 1182,1278 1266,1370 1293,1344" />
+    <text x="1237.5" y="1311.1" class="lot-label">187</text>
+    <polygon id="CANARIA-LOT-188" data-index="188" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1268.6" data-cy="1285.7" class="lot-poly" fill="#6CC6AE" points="1230,1233 1211,1250 1296,1342 1324,1317 1251,1237 1239,1241" />
+    <text x="1268.6" y="1285.7" class="lot-label">188</text>
+    <polygon id="CANARIA-LOT-189" data-index="189" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1303.3" data-cy="1262.1" class="lot-poly" fill="#6CC6AE" points="1281,1209 1253,1235 1326,1315 1354,1289" />
+    <text x="1303.3" y="1262.1" class="lot-label">189</text>
+    <polygon id="CANARIA-LOT-190" data-index="190" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1465.2" data-cy="1373.1" class="lot-poly" fill="#6CC6AE" points="1443,1320 1415,1346 1487,1426 1515,1400" />
+    <text x="1465.2" y="1373.1" class="lot-label">190</text>
+    <polygon id="CANARIA-LOT-191" data-index="191" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1495.5" data-cy="1345.5" class="lot-poly" fill="#6CC6AE" points="1473,1293 1446,1319 1518,1398 1545,1372" />
+    <text x="1495.5" y="1345.5" class="lot-label">191</text>
+    <polygon id="CANARIA-LOT-192" data-index="192" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1525.8" data-cy="1318.0" class="lot-poly" fill="#6CC6AE" points="1503,1266 1476,1291 1548,1371 1576,1345" />
+    <text x="1525.8" y="1318.0" class="lot-label">192</text>
+    <polygon id="CANARIA-LOT-193" data-index="193" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1561.5" data-cy="1296.0" class="lot-poly" fill="#6CC6AE" points="1534,1238 1506,1264 1573,1338 1594,1352 1618,1330" />
+    <text x="1561.5" y="1296.0" class="lot-label">193</text>
+    <polygon id="CANARIA-LOT-194" data-index="194" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1592.3" data-cy="1269.4" class="lot-poly" fill="#6CC6AE" points="1564,1211 1536,1236 1621,1328 1648,1302" />
+    <text x="1592.3" y="1269.4" class="lot-label">194</text>
+    <polygon id="CANARIA-LOT-195" data-index="195" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1678.0" data-cy="1363.7" class="lot-poly" fill="#6CC6AE" points="1650,1305 1623,1332 1706,1422 1733,1396" />
+    <text x="1678.0" y="1363.7" class="lot-label">195</text>
+    <polygon id="CANARIA-LOT-196" data-index="196" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1708.3" data-cy="1336.1" class="lot-poly" fill="#6CC6AE" points="1680,1278 1653,1304 1736,1395 1764,1369" />
+    <text x="1708.3" y="1336.1" class="lot-label">196</text>
+    <polygon id="CANARIA-LOT-197" data-index="197" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1760.1" data-cy="1288.4" class="lot-poly" fill="#6CC6AE" points="1732,1230 1705,1256 1788,1347 1816,1321" />
+    <text x="1760.1" y="1288.4" class="lot-label">197</text>
+    <polygon id="CANARIA-LOT-198" data-index="198" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1790.3" data-cy="1260.7" class="lot-poly" fill="#6CC6AE" points="1763,1202 1735,1228 1818,1319 1846,1294" />
+    <text x="1790.3" y="1260.7" class="lot-label">198</text>
+    <polygon id="CANARIA-LOT-199" data-index="199" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1988.4" data-cy="1359.4" class="lot-poly" fill="#6CC6AE" points="1966,1307 1938,1333 2011,1412 2038,1385" />
+    <text x="1988.4" y="1359.4" class="lot-label">199</text>
+    <polygon id="CANARIA-LOT-200" data-index="200" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2018.6" data-cy="1331.9" class="lot-poly" fill="#6CC6AE" points="1996,1280 1968,1305 2041,1384 2069,1359" />
+    <text x="2018.6" y="1331.9" class="lot-label">200</text>
+    <polygon id="CANARIA-LOT-201" data-index="201" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2048.9" data-cy="1304.2" class="lot-poly" fill="#6CC6AE" points="2026,1252 1999,1278 2071,1357 2099,1331" />
+    <text x="2048.9" y="1304.2" class="lot-label">201</text>
+    <polygon id="CANARIA-LOT-202" data-index="202" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2079.1" data-cy="1276.6" class="lot-poly" fill="#6CC6AE" points="2057,1224 2029,1250 2102,1329 2129,1303" />
+    <text x="2079.1" y="1276.6" class="lot-label">202</text>
+    <polygon id="CANARIA-LOT-203" data-index="203" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2203.0" data-cy="1350.8" class="lot-poly" fill="#6CC6AE" points="2173,1291 2155,1308 2161,1317 2157,1329 2229,1408 2257,1383" />
+    <text x="2203.0" y="1350.8" class="lot-label">203</text>
+    <polygon id="CANARIA-LOT-204" data-index="204" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2231.2" data-cy="1322.0" class="lot-poly" fill="#6CC6AE" points="2202,1264 2176,1289 2259,1381 2287,1355" />
+    <text x="2231.2" y="1322.0" class="lot-label">204</text>
+    <polygon id="CANARIA-LOT-205" data-index="205" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2262.4" data-cy="1286.5" class="lot-poly" fill="#6CC6AE" points="2245,1225 2206,1262 2289,1353 2304,1339 2304,1290" />
+    <text x="2262.4" y="1286.5" class="lot-label">205</text>
+    <polygon id="CANARIA-LOT-206" data-index="206" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2546.0" data-cy="1289.5" class="lot-poly" fill="#C48BBD" points="2520,1229 2520,1350 2572,1350 2572,1229" />
+    <text x="2546.0" y="1289.5" class="lot-label">206</text>
+    <polygon id="CANARIA-LOT-207" data-index="207" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2601.6" data-cy="1287.3" class="lot-poly" fill="#C48BBD" points="2627,1212 2616,1212 2616,1221 2608,1229 2575,1229 2575,1350 2627,1350" />
+    <text x="2601.6" y="1287.3" class="lot-label">207</text>
+    <polygon id="CANARIA-LOT-208" data-index="208" data-type="townhouse_8x19.5" data-type-name="Nhà phố vườn (8m x 19.5m)" data-cx="2656.0" data-cy="1281.0" class="lot-poly" fill="#C48BBD" points="2630,1212 2630,1350 2682,1350 2682,1212" />
+    <text x="2656.0" y="1281.0" class="lot-label">208</text>
+    <polygon id="CANARIA-LOT-209" data-index="209" data-type="villa_detached" data-type-name="Biệt thự đơn lập" data-cx="2750.0" data-cy="1279.0" class="lot-poly" fill="#FFEEA3" points="2710,1212 2710,1346 2790,1346 2790,1212" />
+    <text x="2750.0" y="1279.0" class="lot-label">209</text>
+    <polygon id="CANARIA-LOT-210" data-index="210" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2832.5" data-cy="1279.0" class="lot-poly" fill="#8BA1D2" points="2793,1212 2793,1346 2872,1346 2872,1212" />
+    <text x="2832.5" y="1279.0" class="lot-label">210</text>
+    <polygon id="CANARIA-LOT-211" data-index="211" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2913.3" data-cy="1284.4" class="lot-poly" fill="#8BA1D2" points="2875,1212 2875,1346 2954,1346 2954,1229 2908,1229 2900,1222 2900,1212" />
+    <text x="2913.3" y="1284.4" class="lot-label">211</text>
+    <polygon id="CANARIA-LOT-212" data-index="212" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2996.5" data-cy="1287.5" class="lot-poly" fill="#8BA1D2" points="2957,1229 2957,1346 3036,1346 3036,1229" />
+    <text x="2996.5" y="1287.5" class="lot-label">212</text>
+    <polygon id="CANARIA-LOT-213" data-index="213" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3080.2" data-cy="1284.4" class="lot-poly" fill="#8BA1D2" points="3119,1212 3094,1212 3086,1229 3039,1229 3039,1346 3119,1346" />
+    <text x="3080.2" y="1284.4" class="lot-label">213</text>
+    <polygon id="CANARIA-LOT-214" data-index="214" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3161.0" data-cy="1279.0" class="lot-poly" fill="#8BA1D2" points="3121,1212 3121,1346 3201,1346 3201,1212" />
+    <text x="3161.0" y="1279.0" class="lot-label">214</text>
+    <polygon id="CANARIA-LOT-215" data-index="215" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3242.6" data-cy="1277.3" class="lot-poly" fill="#8BA1D2" points="3204,1212 3204,1346 3259,1346 3283,1322 3283,1212" />
+    <text x="3242.6" y="1277.3" class="lot-label">215</text>
+    <polygon id="CANARIA-LOT-216" data-index="216" data-type="villa_detached" data-type-name="Biệt thự đơn lập" data-cx="3468.1" data-cy="1332.3" class="lot-poly" fill="#FFEEA3" points="3588,1293 3358,1295 3359,1372 3565,1373" />
+    <text x="3468.1" y="1332.3" class="lot-label">216</text>
+    <polygon id="CANARIA-LOT-217" data-index="217" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1025.6" data-cy="1397.9" class="lot-poly" fill="#F595A9" points="1059,1342 967,1425 992,1454 1085,1370" />
+    <text x="1025.6" y="1397.9" class="lot-label">217</text>
+    <polygon id="CANARIA-LOT-218" data-index="218" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1053.8" data-cy="1428.8" class="lot-poly" fill="#F595A9" points="1087,1372 995,1456 1020,1485 1113,1401" />
+    <text x="1053.8" y="1428.8" class="lot-label">218</text>
+    <polygon id="CANARIA-LOT-219" data-index="219" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1082.0" data-cy="1459.6" class="lot-poly" fill="#F595A9" points="1115,1403 1023,1487 1049,1516 1141,1432" />
+    <text x="1082.0" y="1459.6" class="lot-label">219</text>
+    <polygon id="CANARIA-LOT-220" data-index="220" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1110.1" data-cy="1490.5" class="lot-poly" fill="#F595A9" points="1143,1434 1051,1518 1077,1547 1169,1463" />
+    <text x="1110.1" y="1490.5" class="lot-label">220</text>
+    <polygon id="CANARIA-LOT-221" data-index="221" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1348.7" data-cy="1497.2" class="lot-poly" fill="#6CC6AE" points="1322,1430 1307,1444 1307,1493 1366,1559 1406,1522" />
+    <text x="1348.7" y="1497.2" class="lot-label">221</text>
+    <polygon id="CANARIA-LOT-222" data-index="222" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1380.0" data-cy="1461.6" class="lot-poly" fill="#6CC6AE" points="1352,1403 1324,1428 1409,1520 1436,1495" />
+    <text x="1380.0" y="1461.6" class="lot-label">222</text>
+    <polygon id="CANARIA-LOT-223" data-index="223" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1406.9" data-cy="1431.8" class="lot-poly" fill="#6CC6AE" points="1382,1376 1354,1401 1439,1493 1450,1483 1443,1471 1455,1455" />
+    <text x="1406.9" y="1431.8" class="lot-label">223</text>
+    <polygon id="CANARIA-LOT-224" data-index="224" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1434.9" data-cy="1400.6" class="lot-poly" fill="#6CC6AE" points="1412,1348 1385,1374 1458,1453 1485,1428" />
+    <text x="1434.9" y="1400.6" class="lot-label">224</text>
+    <polygon id="CANARIA-LOT-225" data-index="225" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1562.2" data-cy="1479.8" class="lot-poly" fill="#6CC6AE" points="1540,1427 1512,1453 1585,1532 1612,1506" />
+    <text x="1562.2" y="1479.8" class="lot-label">225</text>
+    <polygon id="CANARIA-LOT-226" data-index="226" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1592.5" data-cy="1452.2" class="lot-poly" fill="#6CC6AE" points="1570,1400 1542,1425 1615,1505 1643,1479" />
+    <text x="1592.5" y="1452.2" class="lot-label">226</text>
+    <polygon id="CANARIA-LOT-227" data-index="227" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1622.8" data-cy="1424.7" class="lot-poly" fill="#6CC6AE" points="1600,1372 1573,1398 1646,1477 1673,1452" />
+    <text x="1622.8" y="1424.7" class="lot-label">227</text>
+    <polygon id="CANARIA-LOT-228" data-index="228" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1648.4" data-cy="1391.7" class="lot-poly" fill="#6CC6AE" points="1620,1333 1596,1354 1602,1369 1675,1450 1703,1424" />
+    <text x="1648.4" y="1391.7" class="lot-label">228</text>
+    <polygon id="CANARIA-LOT-229" data-index="229" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1852.5" data-cy="1494.6" class="lot-poly" fill="#6CC6AE" points="1824,1436 1796,1461 1881,1553 1909,1528" />
+    <text x="1852.5" y="1494.6" class="lot-label">229</text>
+    <polygon id="CANARIA-LOT-230" data-index="230" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1903.6" data-cy="1448.8" class="lot-poly" fill="#6CC6AE" points="1875,1390 1848,1416 1932,1508 1960,1482" />
+    <text x="1903.6" y="1448.8" class="lot-label">230</text>
+    <polygon id="CANARIA-LOT-231" data-index="231" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1933.9" data-cy="1421.2" class="lot-poly" fill="#6CC6AE" points="1906,1362 1878,1388 1962,1480 1990,1454" />
+    <text x="1933.9" y="1421.2" class="lot-label">231</text>
+    <polygon id="CANARIA-LOT-232" data-index="232" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1961.6" data-cy="1391.7" class="lot-poly" fill="#6CC6AE" points="1935,1335 1908,1360 1993,1452 2009,1437 2002,1428 2009,1414" />
+    <text x="1961.6" y="1391.7" class="lot-label">232</text>
+    <polygon id="CANARIA-LOT-233" data-index="233" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2051.3" data-cy="1489.9" class="lot-poly" fill="#6CC6AE" points="2011,1439 1994,1455 2078,1546 2106,1521 2033,1441 2018,1446" />
+    <text x="2051.3" y="1489.9" class="lot-label">233</text>
+    <polygon id="CANARIA-LOT-234" data-index="234" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2085.6" data-cy="1465.9" class="lot-poly" fill="#6CC6AE" points="2063,1413 2035,1439 2108,1519 2136,1493" />
+    <text x="2085.6" y="1465.9" class="lot-label">234</text>
+    <polygon id="CANARIA-LOT-235" data-index="235" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2115.8" data-cy="1438.4" class="lot-poly" fill="#6CC6AE" points="2093,1386 2066,1412 2138,1491 2166,1465" />
+    <text x="2115.8" y="1438.4" class="lot-label">235</text>
+    <polygon id="CANARIA-LOT-236" data-index="236" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2146.1" data-cy="1410.8" class="lot-poly" fill="#6CC6AE" points="2124,1358 2096,1384 2169,1463 2196,1437" />
+    <text x="2146.1" y="1410.8" class="lot-label">236</text>
+    <polygon id="CANARIA-LOT-237" data-index="237" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2176.4" data-cy="1383.2" class="lot-poly" fill="#6CC6AE" points="2154,1330 2126,1356 2199,1436 2227,1410" />
+    <text x="2176.4" y="1383.2" class="lot-label">237</text>
+    <polygon id="CANARIA-LOT-238" data-index="238" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2333.1" data-cy="1497.3" class="lot-poly" fill="#6CC6AE" points="2306,1441 2278,1466 2351,1546 2364,1541 2373,1549 2391,1533" />
+    <text x="2333.1" y="1497.3" class="lot-label">238</text>
+    <polygon id="CANARIA-LOT-239" data-index="239" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2364.4" data-cy="1472.1" class="lot-poly" fill="#6CC6AE" points="2336,1413 2309,1439 2393,1531 2420,1505" />
+    <text x="2364.4" y="1472.1" class="lot-label">239</text>
+    <polygon id="CANARIA-LOT-240" data-index="240" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2402.6" data-cy="1444.2" class="lot-poly" fill="#6CC6AE" points="2339,1411 2422,1503 2462,1468 2402,1402 2353,1398" />
+    <text x="2402.6" y="1444.2" class="lot-label">240</text>
+    <polygon id="CANARIA-LOT-241" data-index="241" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3384.7" data-cy="1490.7" class="lot-poly" fill="#8BA1D2" points="3351,1407 3298,1464 3416,1574 3472,1516" />
+    <text x="3384.7" y="1490.7" class="lot-label">241</text>
+    <polygon id="CANARIA-LOT-242" data-index="242" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1163.4" data-cy="1548.4" class="lot-poly" fill="#F595A9" points="1197,1492 1104,1576 1130,1605 1222,1521" />
+    <text x="1163.4" y="1548.4" class="lot-label">242</text>
+    <polygon id="CANARIA-LOT-243" data-index="243" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1191.6" data-cy="1579.2" class="lot-poly" fill="#F595A9" points="1225,1523 1132,1607 1158,1635 1251,1551" />
+    <text x="1191.6" y="1579.2" class="lot-label">243</text>
+    <polygon id="CANARIA-LOT-244" data-index="244" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1219.8" data-cy="1610.1" class="lot-poly" fill="#F595A9" points="1253,1554 1161,1637 1186,1666 1279,1582" />
+    <text x="1219.8" y="1610.1" class="lot-label">244</text>
+    <polygon id="CANARIA-LOT-245" data-index="245" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1427.6" data-cy="1584.0" class="lot-poly" fill="#6CC6AE" points="1368,1561 1427,1626 1476,1631 1491,1617 1408,1525" />
+    <text x="1427.6" y="1584.0" class="lot-label">245</text>
+    <polygon id="CANARIA-LOT-246" data-index="246" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1465.8" data-cy="1556.2" class="lot-poly" fill="#6CC6AE" points="1437,1498 1410,1523 1494,1615 1521,1589" />
+    <text x="1465.8" y="1556.2" class="lot-label">246</text>
+    <polygon id="CANARIA-LOT-247" data-index="247" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1498.4" data-cy="1532.4" class="lot-poly" fill="#6CC6AE" points="1452,1485 1440,1496 1523,1587 1552,1562 1480,1483 1468,1492" />
+    <text x="1498.4" y="1532.4" class="lot-label">247</text>
+    <polygon id="CANARIA-LOT-248" data-index="248" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1531.9" data-cy="1507.4" class="lot-poly" fill="#6CC6AE" points="1509,1455 1482,1481 1554,1560 1582,1534" />
+    <text x="1531.9" y="1507.4" class="lot-label">248</text>
+    <polygon id="CANARIA-LOT-249" data-index="249" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1725.9" data-cy="1599.0" class="lot-poly" fill="#6CC6AE" points="1703,1546 1676,1572 1749,1652 1776,1626" />
+    <text x="1725.9" y="1599.0" class="lot-label">249</text>
+    <polygon id="CANARIA-LOT-250" data-index="250" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1756.1" data-cy="1571.4" class="lot-poly" fill="#6CC6AE" points="1733,1519 1705,1544 1779,1624 1807,1599" />
+    <text x="1756.1" y="1571.4" class="lot-label">250</text>
+    <polygon id="CANARIA-LOT-251" data-index="251" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1790.6" data-cy="1547.6" class="lot-poly" fill="#6CC6AE" points="1763,1491 1736,1517 1809,1597 1822,1592 1831,1599 1848,1583" />
+    <text x="1790.6" y="1547.6" class="lot-label">251</text>
+    <polygon id="CANARIA-LOT-252" data-index="252" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1822.2" data-cy="1522.2" class="lot-poly" fill="#6CC6AE" points="1794,1463 1766,1489 1851,1581 1878,1555" />
+    <text x="1822.2" y="1522.2" class="lot-label">252</text>
+    <polygon id="CANARIA-LOT-253" data-index="253" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1908.2" data-cy="1616.3" class="lot-poly" fill="#6CC6AE" points="1880,1558 1853,1584 1936,1675 1964,1649" />
+    <text x="1908.2" y="1616.3" class="lot-label">253</text>
+    <polygon id="CANARIA-LOT-254" data-index="254" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1938.4" data-cy="1588.6" class="lot-poly" fill="#6CC6AE" points="1911,1530 1883,1556 1966,1647 1994,1621" />
+    <text x="1938.4" y="1588.6" class="lot-label">254</text>
+    <polygon id="CANARIA-LOT-255" data-index="255" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1989.5" data-cy="1542.9" class="lot-poly" fill="#6CC6AE" points="1962,1484 1934,1510 2018,1601 2045,1576" />
+    <text x="1989.5" y="1542.9" class="lot-label">255</text>
+    <polygon id="CANARIA-LOT-256" data-index="256" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2019.7" data-cy="1515.2" class="lot-poly" fill="#6CC6AE" points="1992,1457 1964,1482 2047,1574 2075,1548" />
+    <text x="2019.7" y="1515.2" class="lot-label">256</text>
+    <polygon id="CANARIA-LOT-257" data-index="257" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2207.5" data-cy="1603.5" class="lot-poly" fill="#6CC6AE" points="2184,1552 2157,1577 2230,1655 2257,1630" />
+    <text x="2207.5" y="1603.5" class="lot-label">257</text>
+    <polygon id="CANARIA-LOT-258" data-index="258" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2237.7" data-cy="1576.0" class="lot-poly" fill="#6CC6AE" points="2215,1524 2188,1550 2260,1628 2288,1603" />
+    <text x="2237.7" y="1576.0" class="lot-label">258</text>
+    <polygon id="CANARIA-LOT-259" data-index="259" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2268.0" data-cy="1548.4" class="lot-poly" fill="#6CC6AE" points="2246,1496 2218,1522 2290,1601 2318,1575" />
+    <text x="2268.0" y="1548.4" class="lot-label">259</text>
+    <polygon id="CANARIA-LOT-260" data-index="260" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2298.3" data-cy="1520.8" class="lot-poly" fill="#6CC6AE" points="2276,1468 2248,1494 2321,1573 2348,1547" />
+    <text x="2298.3" y="1520.8" class="lot-label">260</text>
+    <polygon id="CANARIA-LOT-261" data-index="261" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2422.4" data-cy="1595.3" class="lot-poly" fill="#6CC6AE" points="2393,1535 2375,1551 2381,1560 2376,1573 2449,1652 2476,1627" />
+    <text x="2422.4" y="1595.3" class="lot-label">261</text>
+    <polygon id="CANARIA-LOT-262" data-index="262" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2450.5" data-cy="1566.4" class="lot-poly" fill="#6CC6AE" points="2422,1508 2395,1533 2478,1625 2506,1599" />
+    <text x="2450.5" y="1566.4" class="lot-label">262</text>
+    <polygon id="CANARIA-LOT-263" data-index="263" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2481.7" data-cy="1531.0" class="lot-poly" fill="#6CC6AE" points="2464,1470 2425,1506 2509,1597 2524,1583 2523,1534" />
+    <text x="2481.7" y="1531.0" class="lot-label">263</text>
+    <polygon id="CANARIA-LOT-264" data-index="264" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3274.6" data-cy="1609.9" class="lot-poly" fill="#8BA1D2" points="3241,1526 3188,1583 3310,1694 3361,1636" />
+    <text x="3274.6" y="1609.9" class="lot-label">264</text>
+    <polygon id="CANARIA-LOT-265" data-index="265" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3328.5" data-cy="1549.8" class="lot-poly" fill="#8BA1D2" points="3296,1466 3243,1524 3363,1634 3413,1576" />
+    <text x="3328.5" y="1549.8" class="lot-label">265</text>
+    <polygon id="CANARIA-LOT-266" data-index="266" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1248.0" data-cy="1640.9" class="lot-poly" fill="#F595A9" points="1281,1584 1189,1668 1214,1697 1307,1613" />
+    <text x="1248.0" y="1640.9" class="lot-label">266</text>
+    <polygon id="CANARIA-LOT-267" data-index="267" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1276.2" data-cy="1671.8" class="lot-poly" fill="#F595A9" points="1309,1615 1217,1700 1243,1728 1335,1644" />
+    <text x="1276.2" y="1671.8" class="lot-label">267</text>
+    <polygon id="CANARIA-LOT-268" data-index="268" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1304.3" data-cy="1702.6" class="lot-poly" fill="#F595A9" points="1337,1646 1246,1730 1271,1759 1363,1675" />
+    <text x="1304.3" y="1702.6" class="lot-label">268</text>
+    <polygon id="CANARIA-LOT-269" data-index="269" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1610.4" data-cy="1715.1" class="lot-poly" fill="#6CC6AE" points="1582,1656 1555,1682 1639,1774 1666,1748" />
+    <text x="1610.4" y="1715.1" class="lot-label">269</text>
+    <polygon id="CANARIA-LOT-270" data-index="270" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1638.6" data-cy="1686.4" class="lot-poly" fill="#6CC6AE" points="1612,1629 1585,1655 1669,1747 1686,1731 1680,1721 1686,1709" />
+    <text x="1638.6" y="1686.4" class="lot-label">270</text>
+    <polygon id="CANARIA-LOT-271" data-index="271" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1665.4" data-cy="1654.2" class="lot-poly" fill="#6CC6AE" points="1643,1601 1615,1627 1688,1707 1716,1681" />
+    <text x="1665.4" y="1654.2" class="lot-label">271</text>
+    <polygon id="CANARIA-LOT-272" data-index="272" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1695.7" data-cy="1626.6" class="lot-poly" fill="#6CC6AE" points="1673,1574 1645,1599 1719,1679 1746,1653" />
+    <text x="1695.7" y="1626.6" class="lot-label">272</text>
+    <polygon id="CANARIA-LOT-273" data-index="273" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1793.0" data-cy="1733.0" class="lot-poly" fill="#6CC6AE" points="1771,1681 1743,1707 1815,1785 1843,1759" />
+    <text x="1793.0" y="1733.0" class="lot-label">273</text>
+    <polygon id="CANARIA-LOT-274" data-index="274" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1823.2" data-cy="1705.4" class="lot-poly" fill="#6CC6AE" points="1801,1653 1773,1679 1846,1757 1873,1732" />
+    <text x="1823.2" y="1705.4" class="lot-label">274</text>
+    <polygon id="CANARIA-LOT-275" data-index="275" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1853.4" data-cy="1677.8" class="lot-poly" fill="#6CC6AE" points="1831,1626 1803,1651 1876,1730 1903,1704" />
+    <text x="1853.4" y="1677.8" class="lot-label">275</text>
+    <polygon id="CANARIA-LOT-276" data-index="276" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1880.0" data-cy="1645.3" class="lot-poly" fill="#6CC6AE" points="1850,1585 1832,1602 1839,1610 1834,1624 1906,1702 1934,1677" />
+    <text x="1880.0" y="1645.3" class="lot-label">276</text>
+    <polygon id="CANARIA-LOT-277" data-index="277" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2073.7" data-cy="1737.0" class="lot-poly" fill="#6CC6AE" points="2046,1678 2018,1704 2102,1796 2129,1770" />
+    <text x="2073.7" y="1737.0" class="lot-label">277</text>
+    <polygon id="CANARIA-LOT-278" data-index="278" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2122.8" data-cy="1693.2" class="lot-poly" fill="#6CC6AE" points="2095,1634 2067,1660 2151,1752 2179,1726" />
+    <text x="2122.8" y="1693.2" class="lot-label">278</text>
+    <polygon id="CANARIA-LOT-279" data-index="279" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2153.1" data-cy="1665.5" class="lot-poly" fill="#6CC6AE" points="2124,1607 2097,1632 2182,1724 2209,1698" />
+    <text x="2153.1" y="1665.5" class="lot-label">279</text>
+    <polygon id="CANARIA-LOT-280" data-index="280" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2181.0" data-cy="1636.2" class="lot-poly" fill="#6CC6AE" points="2155,1579 2127,1605 2212,1696 2229,1681 2222,1672 2227,1657" />
+    <text x="2181.0" y="1636.2" class="lot-label">280</text>
+    <polygon id="CANARIA-LOT-281" data-index="281" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2270.3" data-cy="1734.0" class="lot-poly" fill="#6CC6AE" points="2231,1683 2213,1699 2297,1791 2325,1765 2252,1685 2238,1689" />
+    <text x="2270.3" y="1734.0" class="lot-label">281</text>
+    <polygon id="CANARIA-LOT-282" data-index="282" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2304.6" data-cy="1710.1" class="lot-poly" fill="#6CC6AE" points="2282,1657 2254,1683 2327,1763 2355,1737" />
+    <text x="2304.6" y="1710.1" class="lot-label">282</text>
+    <polygon id="CANARIA-LOT-283" data-index="283" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2334.9" data-cy="1682.5" class="lot-poly" fill="#6CC6AE" points="2312,1630 2284,1655 2358,1735 2385,1709" />
+    <text x="2334.9" y="1682.5" class="lot-label">283</text>
+    <polygon id="CANARIA-LOT-284" data-index="284" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2365.2" data-cy="1655.0" class="lot-poly" fill="#6CC6AE" points="2343,1602 2315,1628 2388,1708 2416,1682" />
+    <text x="2365.2" y="1655.0" class="lot-label">284</text>
+    <polygon id="CANARIA-LOT-285" data-index="285" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2395.5" data-cy="1627.4" class="lot-poly" fill="#6CC6AE" points="2373,1575 2345,1600 2418,1680 2446,1655" />
+    <text x="2395.5" y="1627.4" class="lot-label">285</text>
+    <polygon id="CANARIA-LOT-286" data-index="286" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2592.4" data-cy="1716.7" class="lot-poly" fill="#6CC6AE" points="2564,1658 2537,1684 2621,1775 2648,1750" />
+    <text x="2592.4" y="1716.7" class="lot-label">286</text>
+    <polygon id="CANARIA-LOT-287" data-index="287" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2630.6" data-cy="1688.8" class="lot-poly" fill="#6CC6AE" points="2567,1656 2650,1748 2690,1712 2631,1647 2582,1642" />
+    <text x="2630.6" y="1688.8" class="lot-label">287</text>
+    <polygon id="CANARIA-LOT-288" data-index="288" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3170.1" data-cy="1733.3" class="lot-poly" fill="#8BA1D2" points="3131,1644 3078,1702 3218,1825 3258,1763" />
+    <text x="3170.1" y="1733.3" class="lot-label">288</text>
+    <polygon id="CANARIA-LOT-289" data-index="289" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3221.7" data-cy="1671.6" class="lot-poly" fill="#8BA1D2" points="3186,1585 3133,1642 3260,1761 3307,1696" />
+    <text x="3221.7" y="1671.6" class="lot-label">289</text>
+    <polygon id="CANARIA-LOT-290" data-index="290" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1354.0" data-cy="1755.5" class="lot-poly" fill="#F595A9" points="1387,1699 1295,1783 1321,1812 1413,1728" />
+    <text x="1354.0" y="1755.5" class="lot-label">290</text>
+    <polygon id="CANARIA-LOT-291" data-index="291" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1382.2" data-cy="1786.3" class="lot-poly" fill="#F595A9" points="1416,1730 1323,1814 1349,1843 1441,1759" />
+    <text x="1382.2" y="1786.3" class="lot-label">291</text>
+    <polygon id="CANARIA-LOT-292" data-index="292" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1410.4" data-cy="1817.2" class="lot-poly" fill="#F595A9" points="1444,1761 1351,1845 1377,1873 1469,1790" />
+    <text x="1410.4" y="1817.2" class="lot-label">292</text>
+    <polygon id="CANARIA-LOT-293" data-index="293" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1438.6" data-cy="1848.0" class="lot-poly" fill="#F595A9" points="1472,1792 1379,1876 1405,1904 1498,1820" />
+    <text x="1438.6" y="1848.0" class="lot-label">293</text>
+    <polygon id="CANARIA-LOT-294" data-index="294" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1579.1" data-cy="1750.6" class="lot-poly" fill="#6CC6AE" points="1552,1684 1537,1698 1537,1747 1597,1812 1637,1776" />
+    <text x="1579.1" y="1750.6" class="lot-label">294</text>
+    <polygon id="CANARIA-LOT-295" data-index="295" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1658.4" data-cy="1837.3" class="lot-poly" fill="#6CC6AE" points="1599,1814 1658,1879 1707,1884 1722,1870 1639,1778" />
+    <text x="1658.4" y="1837.3" class="lot-label">295</text>
+    <polygon id="CANARIA-LOT-296" data-index="296" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1696.6" data-cy="1809.4" class="lot-poly" fill="#6CC6AE" points="1668,1751 1641,1776 1725,1868 1752,1842" />
+    <text x="1696.6" y="1809.4" class="lot-label">296</text>
+    <polygon id="CANARIA-LOT-297" data-index="297" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1728.0" data-cy="1784.3" class="lot-poly" fill="#6CC6AE" points="1688,1733 1671,1749 1755,1840 1783,1815 1710,1736 1698,1741" />
+    <text x="1728.0" y="1784.3" class="lot-label">297</text>
+    <polygon id="CANARIA-LOT-298" data-index="298" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1762.8" data-cy="1760.7" class="lot-poly" fill="#6CC6AE" points="1740,1709 1713,1735 1785,1813 1813,1787" />
+    <text x="1762.8" y="1760.7" class="lot-label">298</text>
+    <polygon id="CANARIA-LOT-299" data-index="299" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1946.6" data-cy="1840.7" class="lot-poly" fill="#6CC6AE" points="1924,1788 1896,1813 1969,1893 1997,1868" />
+    <text x="1946.6" y="1840.7" class="lot-label">299</text>
+    <polygon id="CANARIA-LOT-300" data-index="300" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1976.9" data-cy="1813.2" class="lot-poly" fill="#6CC6AE" points="1954,1761 1927,1786 1999,1866 2027,1840" />
+    <text x="1976.9" y="1813.2" class="lot-label">300</text>
+    <polygon id="CANARIA-LOT-301" data-index="301" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2011.6" data-cy="1789.7" class="lot-poly" fill="#6CC6AE" points="1985,1733 1957,1759 2029,1838 2041,1834 2051,1842 2069,1826" />
+    <text x="2011.6" y="1789.7" class="lot-label">301</text>
+    <polygon id="CANARIA-LOT-302" data-index="302" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2043.3" data-cy="1764.5" class="lot-poly" fill="#6CC6AE" points="2015,1706 1987,1731 2071,1824 2099,1798" />
+    <text x="2043.3" y="1764.5" class="lot-label">302</text>
+    <polygon id="CANARIA-LOT-303" data-index="303" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2128.9" data-cy="1858.9" class="lot-poly" fill="#6CC6AE" points="2100,1801 2073,1826 2157,1917 2185,1892" />
+    <text x="2128.9" y="1858.9" class="lot-label">303</text>
+    <polygon id="CANARIA-LOT-304" data-index="304" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2159.3" data-cy="1831.3" class="lot-poly" fill="#6CC6AE" points="2131,1773 2104,1799 2187,1890 2215,1864" />
+    <text x="2159.3" y="1831.3" class="lot-label">304</text>
+    <polygon id="CANARIA-LOT-305" data-index="305" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2208.7" data-cy="1787.2" class="lot-poly" fill="#6CC6AE" points="2181,1729 2153,1754 2236,1846 2264,1820" />
+    <text x="2208.7" y="1787.2" class="lot-label">305</text>
+    <polygon id="CANARIA-LOT-306" data-index="306" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2238.9" data-cy="1759.6" class="lot-poly" fill="#6CC6AE" points="2211,1701 2184,1728 2267,1818 2294,1792" />
+    <text x="2238.9" y="1759.6" class="lot-label">306</text>
+    <polygon id="CANARIA-LOT-307" data-index="307" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2435.4" data-cy="1848.1" class="lot-poly" fill="#6CC6AE" points="2413,1796 2386,1822 2458,1900 2485,1874" />
+    <text x="2435.4" y="1848.1" class="lot-label">307</text>
+    <polygon id="CANARIA-LOT-308" data-index="308" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2465.7" data-cy="1820.6" class="lot-poly" fill="#6CC6AE" points="2443,1769 2416,1794 2489,1872 2516,1847" />
+    <text x="2465.7" y="1820.6" class="lot-label">308</text>
+    <polygon id="CANARIA-LOT-309" data-index="309" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2495.9" data-cy="1793.0" class="lot-poly" fill="#6CC6AE" points="2473,1741 2446,1767 2518,1845 2546,1819" />
+    <text x="2495.9" y="1793.0" class="lot-label">309</text>
+    <polygon id="CANARIA-LOT-310" data-index="310" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2526.2" data-cy="1765.3" class="lot-poly" fill="#6CC6AE" points="2504,1713 2476,1739 2549,1817 2576,1792" />
+    <text x="2526.2" y="1765.3" class="lot-label">310</text>
+    <polygon id="CANARIA-LOT-311" data-index="311" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2561.2" data-cy="1742.0" class="lot-poly" fill="#6CC6AE" points="2533,1686 2506,1711 2579,1790 2592,1786 2601,1794 2618,1777" />
+    <text x="2561.2" y="1742.0" class="lot-label">311</text>
+    <polygon id="CANARIA-LOT-312" data-index="312" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2650.4" data-cy="1839.9" class="lot-poly" fill="#6CC6AE" points="2620,1780 2603,1796 2609,1807 2603,1817 2677,1897 2704,1871" />
+    <text x="2650.4" y="1839.9" class="lot-label">312</text>
+    <polygon id="CANARIA-LOT-313" data-index="313" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2678.5" data-cy="1811.0" class="lot-poly" fill="#6CC6AE" points="2650,1753 2623,1778 2707,1869 2734,1844" />
+    <text x="2678.5" y="1811.0" class="lot-label">313</text>
+    <polygon id="CANARIA-LOT-314" data-index="314" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2709.9" data-cy="1775.6" class="lot-poly" fill="#6CC6AE" points="2692,1714 2653,1751 2737,1842 2752,1828 2752,1780" />
+    <text x="2709.9" y="1775.6" class="lot-label">314</text>
+    <polygon id="CANARIA-LOT-315" data-index="315" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3122.9" data-cy="1801.2" class="lot-poly" fill="#8BA1D2" points="3075,1704 3022,1762 3178,1906 3216,1828" />
+    <text x="3122.9" y="1801.2" class="lot-label">315</text>
+    <polygon id="CANARIA-LOT-316" data-index="316" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1466.8" data-cy="1878.9" class="lot-poly" fill="#F595A9" points="1500,1822 1408,1906 1433,1935 1526,1851" />
+    <text x="1466.8" y="1878.9" class="lot-label">316</text>
+    <polygon id="CANARIA-LOT-317" data-index="317" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1495.0" data-cy="1909.7" class="lot-poly" fill="#F595A9" points="1528,1853 1436,1937 1462,1966 1554,1882" />
+    <text x="1495.0" y="1909.7" class="lot-label">317</text>
+    <polygon id="CANARIA-LOT-318" data-index="318" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1523.2" data-cy="1940.6" class="lot-poly" fill="#F595A9" points="1556,1884 1464,1968 1490,1997 1582,1913" />
+    <text x="1523.2" y="1940.6" class="lot-label">318</text>
+    <polygon id="CANARIA-LOT-319" data-index="319" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1551.3" data-cy="1971.3" class="lot-poly" fill="#F595A9" points="1585,1915 1492,1999 1518,2028 1610,1944" />
+    <text x="1551.3" y="1971.3" class="lot-label">319</text>
+    <polygon id="CANARIA-LOT-320" data-index="320" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1830.8" data-cy="1956.5" class="lot-poly" fill="#6CC6AE" points="1802,1898 1775,1923 1859,2015 1886,1990" />
+    <text x="1830.8" y="1956.5" class="lot-label">320</text>
+    <polygon id="CANARIA-LOT-321" data-index="321" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1858.9" data-cy="1927.8" class="lot-poly" fill="#6CC6AE" points="1833,1870 1805,1896 1890,1988 1906,1973 1900,1964 1905,1950" />
+    <text x="1858.9" y="1927.8" class="lot-label">321</text>
+    <polygon id="CANARIA-LOT-322" data-index="322" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1885.7" data-cy="1895.5" class="lot-poly" fill="#6CC6AE" points="1863,1843 1836,1869 1908,1948 1936,1923" />
+    <text x="1885.7" y="1895.5" class="lot-label">322</text>
+    <polygon id="CANARIA-LOT-323" data-index="323" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1916.1" data-cy="1868.1" class="lot-poly" fill="#6CC6AE" points="1894,1815 1866,1841 1938,1921 1966,1895" />
+    <text x="1916.1" y="1868.1" class="lot-label">323</text>
+    <polygon id="CANARIA-LOT-324" data-index="324" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2013.0" data-cy="1974.9" class="lot-poly" fill="#6CC6AE" points="1991,1922 1963,1948 2036,2027 2063,2002" />
+    <text x="2013.0" y="1974.9" class="lot-label">324</text>
+    <polygon id="CANARIA-LOT-325" data-index="325" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2043.4" data-cy="1947.5" class="lot-poly" fill="#6CC6AE" points="2021,1895 1993,1920 2066,2000 2093,1974" />
+    <text x="2043.4" y="1947.5" class="lot-label">325</text>
+    <polygon id="CANARIA-LOT-326" data-index="326" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2073.8" data-cy="1920.0" class="lot-poly" fill="#6CC6AE" points="2051,1868 2024,1894 2096,1972 2124,1947" />
+    <text x="2073.8" y="1920.0" class="lot-label">326</text>
+    <polygon id="CANARIA-LOT-327" data-index="327" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2100.5" data-cy="1887.8" class="lot-poly" fill="#6CC6AE" points="2071,1828 2053,1844 2059,1852 2054,1866 2126,1945 2154,1919" />
+    <text x="2100.5" y="1887.8" class="lot-label">327</text>
+    <polygon id="CANARIA-LOT-328" data-index="328" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2350.9" data-cy="1937.8" class="lot-poly" fill="#6CC6AE" points="2322,1879 2295,1905 2379,1997 2407,1971" />
+    <text x="2350.9" y="1937.8" class="lot-label">328</text>
+    <polygon id="CANARIA-LOT-329" data-index="329" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2381.2" data-cy="1910.1" class="lot-poly" fill="#6CC6AE" points="2353,1851 2325,1877 2410,1969 2437,1943" />
+    <text x="2381.2" y="1910.1" class="lot-label">329</text>
+    <polygon id="CANARIA-LOT-330" data-index="330" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2408.9" data-cy="1880.8" class="lot-poly" fill="#6CC6AE" points="2382,1824 2355,1849 2440,1941 2457,1925 2449,1915 2455,1902" />
+    <text x="2408.9" y="1880.8" class="lot-label">330</text>
+    <polygon id="CANARIA-LOT-331" data-index="331" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2498.5" data-cy="1978.7" class="lot-poly" fill="#6CC6AE" points="2458,1928 2442,1944 2525,2035 2553,2009 2480,1929 2466,1934" />
+    <text x="2498.5" y="1978.7" class="lot-label">331</text>
+    <polygon id="CANARIA-LOT-332" data-index="332" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2532.6" data-cy="1954.6" class="lot-poly" fill="#6CC6AE" points="2509,1902 2482,1927 2556,2007 2583,1982" />
+    <text x="2532.6" y="1954.6" class="lot-label">332</text>
+    <polygon id="CANARIA-LOT-333" data-index="333" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2562.8" data-cy="1927.0" class="lot-poly" fill="#6CC6AE" points="2540,1874 2512,1900 2585,1980 2613,1954" />
+    <text x="2562.8" y="1927.0" class="lot-label">333</text>
+    <polygon id="CANARIA-LOT-334" data-index="334" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2593.1" data-cy="1899.5" class="lot-poly" fill="#6CC6AE" points="2570,1847 2543,1873 2616,1952 2644,1927" />
+    <text x="2593.1" y="1899.5" class="lot-label">334</text>
+    <polygon id="CANARIA-LOT-335" data-index="335" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2623.5" data-cy="1872.0" class="lot-poly" fill="#6CC6AE" points="2601,1819 2573,1845 2646,1925 2674,1899" />
+    <text x="2623.5" y="1872.0" class="lot-label">335</text>
+    <polygon id="CANARIA-LOT-336" data-index="336" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2814.1" data-cy="1965.7" class="lot-poly" fill="#6CC6AE" points="2786,1905 2759,1932 2842,2026 2870,2000" />
+    <text x="2814.1" y="1965.7" class="lot-label">336</text>
+    <polygon id="CANARIA-LOT-337" data-index="337" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2846.0" data-cy="1935.2" class="lot-poly" fill="#6CC6AE" points="2801,1891 2788,1903 2874,1997 2886,1986 2883,1934 2846,1893" />
+    <text x="2846.0" y="1935.2" class="lot-label">337</text>
+    <polygon id="CANARIA-LOT-338" data-index="338" data-type="villa_detached" data-type-name="Biệt thự đơn lập" data-cx="3075.4" data-cy="1870.7" class="lot-poly" fill="#FFEEA3" points="3020,1764 2964,1825 3107,1954 3160,1974 3177,1909" />
+    <text x="3075.4" y="1870.7" class="lot-label">338</text>
+    <polygon id="CANARIA-LOT-339" data-index="339" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1579.4" data-cy="2002.0" class="lot-poly" fill="#F595A9" points="1613,1946 1520,2030 1546,2058 1638,1975" />
+    <text x="1579.4" y="2002.0" class="lot-label">339</text>
+    <polygon id="CANARIA-LOT-340" data-index="340" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1632.1" data-cy="2054.7" class="lot-poly" fill="#F595A9" points="1665,1998 1573,2082 1599,2111 1691,2027" />
+    <text x="1632.1" y="2054.7" class="lot-label">340</text>
+    <polygon id="CANARIA-LOT-341" data-index="341" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1660.2" data-cy="2085.6" class="lot-poly" fill="#F595A9" points="1693,2029 1601,2113 1627,2142 1719,2058" />
+    <text x="1660.2" y="2085.6" class="lot-label">341</text>
+    <polygon id="CANARIA-LOT-342" data-index="342" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1799.6" data-cy="1992.1" class="lot-poly" fill="#6CC6AE" points="1773,1925 1758,1939 1758,1989 1817,2053 1856,2017" />
+    <text x="1799.6" y="1992.1" class="lot-label">342</text>
+    <polygon id="CANARIA-LOT-343" data-index="343" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1878.3" data-cy="2078.9" class="lot-poly" fill="#6CC6AE" points="1819,2055 1878,2121 1927,2125 1942,2112 1859,2020" />
+    <text x="1878.3" y="2078.9" class="lot-label">343</text>
+    <polygon id="CANARIA-LOT-344" data-index="344" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1916.5" data-cy="2051.2" class="lot-poly" fill="#6CC6AE" points="1888,1993 1861,2018 1944,2110 1972,2084" />
+    <text x="1916.5" y="2051.2" class="lot-label">344</text>
+    <polygon id="CANARIA-LOT-345" data-index="345" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1948.0" data-cy="2026.1" class="lot-poly" fill="#6CC6AE" points="1908,1975 1891,1991 1975,2082 2003,2057 1930,1977 1917,1982" />
+    <text x="1948.0" y="2026.1" class="lot-label">345</text>
+    <polygon id="CANARIA-LOT-346" data-index="346" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="1982.6" data-cy="2002.4" class="lot-poly" fill="#6CC6AE" points="1960,1950 1932,1975 2005,2055 2033,2030" />
+    <text x="1982.6" y="2002.4" class="lot-label">346</text>
+    <polygon id="CANARIA-LOT-347" data-index="347" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2172.1" data-cy="2087.8" class="lot-poly" fill="#6CC6AE" points="2150,2035 2122,2061 2195,2140 2222,2114" />
+    <text x="2172.1" y="2087.8" class="lot-label">347</text>
+    <polygon id="CANARIA-LOT-348" data-index="348" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2202.2" data-cy="2060.1" class="lot-poly" fill="#6CC6AE" points="2179,2008 2152,2033 2225,2112 2252,2086" />
+    <text x="2202.2" y="2060.1" class="lot-label">348</text>
+    <polygon id="CANARIA-LOT-349" data-index="349" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2237.1" data-cy="2036.6" class="lot-poly" fill="#6CC6AE" points="2210,1980 2183,2007 2255,2085 2266,2080 2279,2087 2294,2072" />
+    <text x="2237.1" y="2036.6" class="lot-label">349</text>
+    <polygon id="CANARIA-LOT-350" data-index="350" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2268.6" data-cy="2011.3" class="lot-poly" fill="#6CC6AE" points="2240,1953 2212,1978 2297,2070 2325,2045" />
+    <text x="2268.6" y="2011.3" class="lot-label">350</text>
+    <polygon id="CANARIA-LOT-351" data-index="351" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2298.9" data-cy="1983.7" class="lot-poly" fill="#6CC6AE" points="2270,1925 2243,1951 2327,2043 2355,2017" />
+    <text x="2298.9" y="1983.7" class="lot-label">351</text>
+    <polygon id="CANARIA-LOT-352" data-index="352" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2384.9" data-cy="2077.6" class="lot-poly" fill="#6CC6AE" points="2357,2019 2329,2045 2413,2136 2440,2110" />
+    <text x="2384.9" y="2077.6" class="lot-label">352</text>
+    <polygon id="CANARIA-LOT-353" data-index="353" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2436.7" data-cy="2031.9" class="lot-poly" fill="#6CC6AE" points="2409,1973 2381,1999 2465,2090 2492,2064" />
+    <text x="2436.7" y="2031.9" class="lot-label">353</text>
+    <polygon id="CANARIA-LOT-354" data-index="354" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2467.0" data-cy="2004.3" class="lot-poly" fill="#6CC6AE" points="2439,1946 2412,1972 2495,2063 2523,2037" />
+    <text x="2467.0" y="2004.3" class="lot-label">354</text>
+    <polygon id="CANARIA-LOT-355" data-index="355" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2658.7" data-cy="2096.5" class="lot-poly" fill="#6CC6AE" points="2635,2044 2608,2069 2683,2149 2709,2124" />
+    <text x="2658.7" y="2096.5" class="lot-label">355</text>
+    <polygon id="CANARIA-LOT-356" data-index="356" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2688.8" data-cy="2068.9" class="lot-poly" fill="#6CC6AE" points="2666,2015 2638,2042 2712,2122 2740,2097" />
+    <text x="2688.8" y="2068.9" class="lot-label">356</text>
+    <polygon id="CANARIA-LOT-357" data-index="357" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2719.2" data-cy="2041.3" class="lot-poly" fill="#6CC6AE" points="2696,1988 2668,2013 2742,2095 2770,2069" />
+    <text x="2719.2" y="2041.3" class="lot-label">357</text>
+    <polygon id="CANARIA-LOT-358" data-index="358" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2750.6" data-cy="2013.9" class="lot-poly" fill="#6CC6AE" points="2698,1986 2772,2067 2794,2049 2808,2057 2811,2054 2728,1959" />
+    <text x="2750.6" y="2013.9" class="lot-label">358</text>
+    <polygon id="CANARIA-LOT-359" data-index="359" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2784.4" data-cy="1992.0" class="lot-poly" fill="#6CC6AE" points="2756,1933 2730,1957 2814,2051 2839,2028" />
+    <text x="2784.4" y="1992.0" class="lot-label">359</text>
+    <polygon id="CANARIA-LOT-360" data-index="360" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3042.0" data-cy="2099.0" class="lot-poly" fill="#8BA1D2" points="2950,2056 2948,2140 3126,2142 3144,2059" />
+    <text x="3042.0" y="2099.0" class="lot-label">360</text>
+    <polygon id="CANARIA-LOT-361" data-index="361" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3050.8" data-cy="2014.6" class="lot-poly" fill="#8BA1D2" points="2950,2053 3145,2056 3163,1996 3106,1973 2952,1973" />
+    <text x="3050.8" y="2014.6" class="lot-label">361</text>
+    <polygon id="CANARIA-LOT-362" data-index="362" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1688.4" data-cy="2116.4" class="lot-poly" fill="#F595A9" points="1722,2060 1629,2144 1655,2173 1747,2089" />
+    <text x="1688.4" y="2116.4" class="lot-label">362</text>
+    <polygon id="CANARIA-LOT-363" data-index="363" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1716.6" data-cy="2147.2" class="lot-poly" fill="#F595A9" points="1750,2091 1657,2175 1683,2203 1776,2119" />
+    <text x="1716.6" y="2147.2" class="lot-label">363</text>
+    <polygon id="CANARIA-LOT-364" data-index="364" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1744.8" data-cy="2178.1" class="lot-poly" fill="#F595A9" points="1778,2122 1686,2205 1711,2234 1804,2150" />
+    <text x="1744.8" y="2178.1" class="lot-label">364</text>
+    <polygon id="CANARIA-LOT-365" data-index="365" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2057.0" data-cy="2204.3" class="lot-poly" fill="#6CC6AE" points="2028,2146 2001,2171 2086,2263 2113,2238" />
+    <text x="2057.0" y="2204.3" class="lot-label">365</text>
+    <polygon id="CANARIA-LOT-366" data-index="366" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2085.0" data-cy="2175.5" class="lot-poly" fill="#6CC6AE" points="2059,2118 2031,2144 2115,2236 2133,2220 2126,2211 2131,2197" />
+    <text x="2085.0" y="2175.5" class="lot-label">366</text>
+    <polygon id="CANARIA-LOT-367" data-index="367" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2111.6" data-cy="2143.0" class="lot-poly" fill="#6CC6AE" points="2089,2091 2061,2116 2134,2196 2162,2170" />
+    <text x="2111.6" y="2143.0" class="lot-label">367</text>
+    <polygon id="CANARIA-LOT-368" data-index="368" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2141.9" data-cy="2115.3" class="lot-poly" fill="#6CC6AE" points="2119,2063 2092,2089 2164,2168 2192,2142" />
+    <text x="2141.9" y="2115.3" class="lot-label">368</text>
+    <polygon id="CANARIA-LOT-369" data-index="369" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2269.4" data-cy="2194.1" class="lot-poly" fill="#6CC6AE" points="2247,2141 2219,2167 2292,2247 2320,2221" />
+    <text x="2269.4" y="2194.1" class="lot-label">369</text>
+    <polygon id="CANARIA-LOT-370" data-index="370" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2299.6" data-cy="2166.5" class="lot-poly" fill="#6CC6AE" points="2277,2114 2249,2139 2322,2219 2350,2193" />
+    <text x="2299.6" y="2166.5" class="lot-label">370</text>
+    <polygon id="CANARIA-LOT-371" data-index="371" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2326.4" data-cy="2134.4" class="lot-poly" fill="#6CC6AE" points="2296,2075 2279,2090 2285,2100 2279,2112 2353,2191 2380,2165" />
+    <text x="2326.4" y="2134.4" class="lot-label">371</text>
+    <polygon id="CANARIA-LOT-372" data-index="372" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2354.7" data-cy="2105.3" class="lot-poly" fill="#6CC6AE" points="2327,2047 2299,2073 2383,2163 2410,2137" />
+    <text x="2354.7" y="2105.3" class="lot-label">372</text>
+    <polygon id="CANARIA-LOT-373" data-index="373" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2573.9" data-cy="2184.9" class="lot-poly" fill="#6CC6AE" points="2545,2126 2518,2152 2602,2244 2630,2218" />
+    <text x="2573.9" y="2184.9" class="lot-label">373</text>
+    <polygon id="CANARIA-LOT-374" data-index="374" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2604.4" data-cy="2157.1" class="lot-poly" fill="#6CC6AE" points="2576,2098 2548,2124 2633,2216 2660,2189" />
+    <text x="2604.4" y="2157.1" class="lot-label">374</text>
+    <polygon id="CANARIA-LOT-375" data-index="375" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2629.3" data-cy="2124.3" class="lot-poly" fill="#6CC6AE" points="2605,2071 2579,2096 2663,2189 2658,2173 2679,2151" />
+    <text x="2629.3" y="2124.3" class="lot-label">375</text>
+    <polygon id="CANARIA-LOT-376" data-index="376" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2756.9" data-cy="2204.3" class="lot-poly" fill="#6CC6AE" points="2734,2151 2707,2177 2780,2257 2808,2232" />
+    <text x="2756.9" y="2204.3" class="lot-label">376</text>
+    <polygon id="CANARIA-LOT-377" data-index="377" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2787.0" data-cy="2176.9" class="lot-poly" fill="#6CC6AE" points="2764,2124 2736,2149 2810,2230 2838,2205" />
+    <text x="2787.0" y="2176.9" class="lot-label">377</text>
+    <polygon id="CANARIA-LOT-378" data-index="378" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2817.4" data-cy="2149.2" class="lot-poly" fill="#6CC6AE" points="2795,2096 2767,2122 2840,2203 2863,2182 2866,2174" />
+    <text x="2817.4" y="2149.2" class="lot-label">378</text>
+    <polygon id="CANARIA-LOT-379" data-index="379" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2842.2" data-cy="2115.9" class="lot-poly" fill="#6CC6AE" points="2813,2056 2810,2059 2817,2074 2797,2094 2868,2171 2880,2146 2879,2128" />
+    <text x="2842.2" y="2115.9" class="lot-label">379</text>
+    <polygon id="CANARIA-LOT-380" data-index="380" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3032.9" data-cy="2185.6" class="lot-poly" fill="#8BA1D2" points="2948,2143 2947,2226 3113,2228 3125,2146" />
+    <text x="3032.9" y="2185.6" class="lot-label">380</text>
+    <polygon id="CANARIA-LOT-381" data-index="381" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2025.9" data-cy="2240.0" class="lot-poly" fill="#6CC6AE" points="1999,2173 1984,2187 1984,2236 2044,2301 2083,2265" />
+    <text x="2025.9" y="2240.0" class="lot-label">381</text>
+    <polygon id="CANARIA-LOT-382" data-index="382" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2105.1" data-cy="2326.5" class="lot-poly" fill="#6CC6AE" points="2046,2303 2107,2369 2154,2373 2169,2359 2085,2267" />
+    <text x="2105.1" y="2326.5" class="lot-label">382</text>
+    <polygon id="CANARIA-LOT-383" data-index="383" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2143.2" data-cy="2298.6" class="lot-poly" fill="#6CC6AE" points="2115,2240 2088,2266 2171,2357 2199,2332" />
+    <text x="2143.2" y="2298.6" class="lot-label">383</text>
+    <polygon id="CANARIA-LOT-384" data-index="384" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2174.6" data-cy="2273.3" class="lot-poly" fill="#6CC6AE" points="2135,2222 2117,2238 2201,2330 2229,2304 2157,2225 2143,2229" />
+    <text x="2174.6" y="2273.3" class="lot-label">384</text>
+    <polygon id="CANARIA-LOT-385" data-index="385" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2209.0" data-cy="2249.4" class="lot-poly" fill="#6CC6AE" points="2186,2197 2159,2223 2232,2302 2259,2276" />
+    <text x="2209.0" y="2249.4" class="lot-label">385</text>
+    <polygon id="CANARIA-LOT-386" data-index="386" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2239.2" data-cy="2221.7" class="lot-poly" fill="#6CC6AE" points="2217,2169 2189,2195 2262,2274 2290,2249" />
+    <text x="2239.2" y="2221.7" class="lot-label">386</text>
+    <polygon id="CANARIA-LOT-387" data-index="387" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2399.3" data-cy="2333.4" class="lot-poly" fill="#6CC6AE" points="2377,2281 2349,2306 2422,2386 2449,2360" />
+    <text x="2399.3" y="2333.4" class="lot-label">387</text>
+    <polygon id="CANARIA-LOT-388" data-index="388" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2429.7" data-cy="2305.9" class="lot-poly" fill="#6CC6AE" points="2406,2254 2380,2279 2452,2359 2480,2333" />
+    <text x="2429.7" y="2305.9" class="lot-label">388</text>
+    <polygon id="CANARIA-LOT-389" data-index="389" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2464.4" data-cy="2282.4" class="lot-poly" fill="#6CC6AE" points="2437,2226 2410,2252 2482,2331 2493,2326 2505,2334 2521,2317" />
+    <text x="2464.4" y="2282.4" class="lot-label">389</text>
+    <polygon id="CANARIA-LOT-390" data-index="390" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2496.1" data-cy="2257.2" class="lot-poly" fill="#6CC6AE" points="2468,2198 2440,2224 2524,2316 2552,2291" />
+    <text x="2496.1" y="2257.2" class="lot-label">390</text>
+    <polygon id="CANARIA-LOT-391" data-index="391" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2526.5" data-cy="2229.7" class="lot-poly" fill="#6CC6AE" points="2498,2171 2470,2196 2554,2289 2582,2263" />
+    <text x="2526.5" y="2229.7" class="lot-label">391</text>
+    <polygon id="CANARIA-LOT-392" data-index="392" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2612.1" data-cy="2324.1" class="lot-poly" fill="#6CC6AE" points="2584,2266 2556,2291 2640,2382 2668,2357" />
+    <text x="2612.1" y="2324.1" class="lot-label">392</text>
+    <polygon id="CANARIA-LOT-393" data-index="393" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2660.8" data-cy="2280.1" class="lot-poly" fill="#6CC6AE" points="2632,2221 2604,2246 2690,2339 2717,2314" />
+    <text x="2660.8" y="2280.1" class="lot-label">393</text>
+    <polygon id="CANARIA-LOT-394" data-index="394" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2691.3" data-cy="2252.4" class="lot-poly" fill="#6CC6AE" points="2662,2193 2635,2219 2720,2312 2748,2286" />
+    <text x="2691.3" y="2252.4" class="lot-label">394</text>
+    <polygon id="CANARIA-LOT-395" data-index="395" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2726.5" data-cy="2231.0" class="lot-poly" fill="#6CC6AE" points="2666,2190 2750,2284 2777,2260 2705,2179 2681,2198" />
+    <text x="2726.5" y="2231.0" class="lot-label">395</text>
+    <polygon id="CANARIA-LOT-396" data-index="396" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3026.9" data-cy="2271.6" class="lot-poly" fill="#8BA1D2" points="2946,2230 2945,2312 3105,2314 3112,2232" />
+    <text x="3026.9" y="2271.6" class="lot-label">396</text>
+    <polygon id="CANARIA-LOT-397" data-index="397" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1908.1" data-cy="2346.3" class="lot-poly" fill="#F595A9" points="1941,2290 1849,2374 1875,2403 1967,2319" />
+    <text x="1908.1" y="2346.3" class="lot-label">397</text>
+    <polygon id="CANARIA-LOT-398" data-index="398" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1936.3" data-cy="2377.1" class="lot-poly" fill="#F595A9" points="1970,2321 1877,2405 1903,2434 1995,2350" />
+    <text x="1936.3" y="2377.1" class="lot-label">398</text>
+    <polygon id="CANARIA-LOT-399" data-index="399" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1964.5" data-cy="2408.0" class="lot-poly" fill="#F595A9" points="1998,2352 1905,2436 1931,2464 2024,2380" />
+    <text x="1964.5" y="2408.0" class="lot-label">399</text>
+    <polygon id="CANARIA-LOT-400" data-index="400" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="1992.6" data-cy="2438.9" class="lot-poly" fill="#F595A9" points="2026,2383 1934,2466 1959,2495 2052,2411" />
+    <text x="1992.6" y="2438.9" class="lot-label">400</text>
+    <polygon id="CANARIA-LOT-401" data-index="401" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2283.7" data-cy="2449.3" class="lot-poly" fill="#6CC6AE" points="2255,2391 2228,2416 2312,2508 2339,2483" />
+    <text x="2283.7" y="2449.3" class="lot-label">401</text>
+    <polygon id="CANARIA-LOT-402" data-index="402" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2311.8" data-cy="2420.7" class="lot-poly" fill="#6CC6AE" points="2286,2363 2258,2389 2342,2481 2360,2465 2353,2456 2358,2442" />
+    <text x="2311.8" y="2420.7" class="lot-label">402</text>
+    <polygon id="CANARIA-LOT-403" data-index="403" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2338.6" data-cy="2388.4" class="lot-poly" fill="#6CC6AE" points="2316,2336 2288,2361 2361,2441 2389,2416" />
+    <text x="2338.6" y="2388.4" class="lot-label">403</text>
+    <polygon id="CANARIA-LOT-404" data-index="404" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2369.0" data-cy="2360.8" class="lot-poly" fill="#6CC6AE" points="2347,2308 2319,2334 2391,2414 2419,2388" />
+    <text x="2369.0" y="2360.8" class="lot-label">404</text>
+    <polygon id="CANARIA-LOT-405" data-index="405" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2496.2" data-cy="2440.1" class="lot-poly" fill="#6CC6AE" points="2474,2388 2446,2413 2519,2492 2546,2467" />
+    <text x="2496.2" y="2440.1" class="lot-label">405</text>
+    <polygon id="CANARIA-LOT-406" data-index="406" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2526.5" data-cy="2412.6" class="lot-poly" fill="#6CC6AE" points="2504,2360 2477,2386 2549,2465 2577,2440" />
+    <text x="2526.5" y="2412.6" class="lot-label">406</text>
+    <polygon id="CANARIA-LOT-407" data-index="407" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2553.4" data-cy="2380.6" class="lot-poly" fill="#6CC6AE" points="2523,2321 2506,2337 2512,2344 2507,2359 2579,2438 2607,2412" />
+    <text x="2553.4" y="2380.6" class="lot-label">407</text>
+    <polygon id="CANARIA-LOT-408" data-index="408" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2581.7" data-cy="2351.6" class="lot-poly" fill="#6CC6AE" points="2554,2293 2526,2319 2610,2410 2637,2384" />
+    <text x="2581.7" y="2351.6" class="lot-label">408</text>
+    <polygon id="CANARIA-LOT-409" data-index="409" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2773.4" data-cy="2440.4" class="lot-poly" fill="#6CC6AE" points="2742,2383 2717,2407 2803,2499 2830,2474" />
+    <text x="2773.4" y="2440.4" class="lot-label">409</text>
+    <polygon id="CANARIA-LOT-410" data-index="410" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2803.8" data-cy="2412.7" class="lot-poly" fill="#6CC6AE" points="2775,2353 2747,2380 2832,2472 2861,2445" />
+    <text x="2803.8" y="2412.7" class="lot-label">410</text>
+    <polygon id="CANARIA-LOT-411" data-index="411" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3023.9" data-cy="2356.4" class="lot-poly" fill="#8BA1D2" points="2945,2315 2943,2396 3104,2398 3105,2317" />
+    <text x="3023.9" y="2356.4" class="lot-label">411</text>
+    <polygon id="CANARIA-LOT-412" data-index="412" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3023.9" data-cy="2441.4" class="lot-poly" fill="#8BA1D2" points="2943,2398 2941,2482 3109,2484 3104,2401" />
+    <text x="3023.9" y="2441.4" class="lot-label">412</text>
+    <polygon id="CANARIA-LOT-413" data-index="413" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2020.9" data-cy="2469.7" class="lot-poly" fill="#F595A9" points="2054,2413 1962,2497 1988,2526 2080,2442" />
+    <text x="2020.9" y="2469.7" class="lot-label">413</text>
+    <polygon id="CANARIA-LOT-414" data-index="414" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2049.0" data-cy="2500.5" class="lot-poly" fill="#F595A9" points="2082,2444 1990,2528 2016,2557 2108,2473" />
+    <text x="2049.0" y="2500.5" class="lot-label">414</text>
+    <polygon id="CANARIA-LOT-415" data-index="415" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2077.2" data-cy="2531.4" class="lot-poly" fill="#F595A9" points="2110,2475 2018,2559 2044,2588 2136,2504" />
+    <text x="2077.2" y="2531.4" class="lot-label">415</text>
+    <polygon id="CANARIA-LOT-416" data-index="416" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2252.2" data-cy="2484.7" class="lot-poly" fill="#6CC6AE" points="2226,2418 2210,2432 2210,2480 2270,2546 2309,2509" />
+    <text x="2252.2" y="2484.7" class="lot-label">416</text>
+    <polygon id="CANARIA-LOT-417" data-index="417" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2331.2" data-cy="2571.7" class="lot-poly" fill="#6CC6AE" points="2272,2548 2331,2614 2380,2618 2394,2605 2312,2513" />
+    <text x="2331.2" y="2571.7" class="lot-label">417</text>
+    <polygon id="CANARIA-LOT-418" data-index="418" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2369.4" data-cy="2543.9" class="lot-poly" fill="#6CC6AE" points="2341,2486 2314,2511 2398,2602 2425,2577" />
+    <text x="2369.4" y="2543.9" class="lot-label">418</text>
+    <polygon id="CANARIA-LOT-419" data-index="419" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2400.9" data-cy="2518.9" class="lot-poly" fill="#6CC6AE" points="2362,2467 2344,2484 2428,2575 2455,2549 2383,2470 2371,2475" />
+    <text x="2400.9" y="2518.9" class="lot-label">419</text>
+    <polygon id="CANARIA-LOT-420" data-index="420" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2435.6" data-cy="2495.3" class="lot-poly" fill="#6CC6AE" points="2413,2443 2385,2468 2458,2548 2486,2522" />
+    <text x="2435.6" y="2495.3" class="lot-label">420</text>
+    <polygon id="CANARIA-LOT-421" data-index="421" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2465.9" data-cy="2467.7" class="lot-poly" fill="#6CC6AE" points="2444,2415 2416,2441 2488,2520 2516,2494" />
+    <text x="2465.9" y="2467.7" class="lot-label">421</text>
+    <polygon id="CANARIA-LOT-422" data-index="422" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2617.2" data-cy="2571.7" class="lot-poly" fill="#6CC6AE" points="2595,2520 2568,2546 2639,2624 2667,2598" />
+    <text x="2617.2" y="2571.7" class="lot-label">422</text>
+    <polygon id="CANARIA-LOT-423" data-index="423" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2647.3" data-cy="2543.8" class="lot-poly" fill="#6CC6AE" points="2625,2492 2598,2518 2669,2596 2697,2570" />
+    <text x="2647.3" y="2543.8" class="lot-label">423</text>
+    <polygon id="CANARIA-LOT-424" data-index="424" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2682.3" data-cy="2520.1" class="lot-poly" fill="#6CC6AE" points="2655,2464 2627,2490 2699,2568 2710,2563 2722,2572 2740,2555" />
+    <text x="2682.3" y="2520.1" class="lot-label">424</text>
+    <polygon id="CANARIA-LOT-425" data-index="425" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2713.8" data-cy="2495.3" class="lot-poly" fill="#6CC6AE" points="2684,2437 2658,2462 2743,2553 2769,2527" />
+    <text x="2713.8" y="2495.3" class="lot-label">425</text>
+    <polygon id="CANARIA-LOT-426" data-index="426" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2743.5" data-cy="2467.8" class="lot-poly" fill="#6CC6AE" points="2714,2409 2687,2435 2772,2527 2800,2501" />
+    <text x="2743.5" y="2467.8" class="lot-label">426</text>
+    <polygon id="CANARIA-LOT-427" data-index="427" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3026.2" data-cy="2527.3" class="lot-poly" fill="#8BA1D2" points="2941,2484 2939,2567 3114,2570 3109,2487" />
+    <text x="3026.2" y="2527.3" class="lot-label">427</text>
+    <polygon id="CANARIA-LOT-428" data-index="428" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2131.0" data-cy="2591.5" class="lot-poly" fill="#F595A9" points="2164,2535 2072,2619 2098,2648 2190,2564" />
+    <text x="2131.0" y="2591.5" class="lot-label">428</text>
+    <polygon id="CANARIA-LOT-429" data-index="429" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2159.1" data-cy="2622.4" class="lot-poly" fill="#F595A9" points="2192,2566 2100,2650 2126,2679 2218,2595" />
+    <text x="2159.1" y="2622.4" class="lot-label">429</text>
+    <polygon id="CANARIA-LOT-430" data-index="430" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2187.4" data-cy="2653.2" class="lot-poly" fill="#F595A9" points="2221,2597 2128,2681 2154,2709 2246,2626" />
+    <text x="2187.4" y="2653.2" class="lot-label">430</text>
+    <polygon id="CANARIA-LOT-431" data-index="431" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2215.5" data-cy="2684.0" class="lot-poly" fill="#F595A9" points="2249,2628 2156,2712 2182,2740 2275,2656" />
+    <text x="2215.5" y="2684.0" class="lot-label">431</text>
+    <polygon id="CANARIA-LOT-432" data-index="432" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2501.9" data-cy="2689.2" class="lot-poly" fill="#6CC6AE" points="2474,2632 2447,2658 2530,2746 2557,2721" />
+    <text x="2501.9" y="2689.2" class="lot-label">432</text>
+    <polygon id="CANARIA-LOT-433" data-index="433" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2530.0" data-cy="2660.2" class="lot-poly" fill="#6CC6AE" points="2504,2604 2477,2630 2560,2719 2578,2703 2571,2694 2576,2681" />
+    <text x="2530.0" y="2660.2" class="lot-label">433</text>
+    <polygon id="CANARIA-LOT-434" data-index="434" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2556.6" data-cy="2627.6" class="lot-poly" fill="#6CC6AE" points="2534,2576 2507,2602 2579,2679 2606,2653" />
+    <text x="2556.6" y="2627.6" class="lot-label">434</text>
+    <polygon id="CANARIA-LOT-435" data-index="435" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2587.0" data-cy="2599.6" class="lot-poly" fill="#6CC6AE" points="2564,2548 2537,2574 2609,2652 2637,2626" />
+    <text x="2587.0" y="2599.6" class="lot-label">435</text>
+    <polygon id="CANARIA-LOT-436" data-index="436" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2716.0" data-cy="2679.1" class="lot-poly" fill="#6CC6AE" points="2691,2625 2664,2651 2740,2734 2768,2707" />
+    <text x="2716.0" y="2679.1" class="lot-label">436</text>
+    <polygon id="CANARIA-LOT-437" data-index="437" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2746.2" data-cy="2651.2" class="lot-poly" fill="#6CC6AE" points="2722,2597 2694,2623 2771,2705 2798,2679" />
+    <text x="2746.2" y="2651.2" class="lot-label">437</text>
+    <polygon id="CANARIA-LOT-438" data-index="438" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2773.1" data-cy="2619.0" class="lot-poly" fill="#6CC6AE" points="2742,2558 2724,2574 2730,2584 2724,2595 2802,2677 2829,2652" />
+    <text x="2773.1" y="2619.0" class="lot-label">438</text>
+    <polygon id="CANARIA-LOT-439" data-index="439" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2799.1" data-cy="2588.3" class="lot-poly" fill="#6CC6AE" points="2770,2532 2745,2557 2831,2650 2838,2642 2846,2610" />
+    <text x="2799.1" y="2588.3" class="lot-label">439</text>
+    <polygon id="CANARIA-LOT-440" data-index="440" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="3026.5" data-cy="2615.6" class="lot-poly" fill="#8BA1D2" points="2939,2570 2937,2658 3110,2661 3115,2573" />
+    <text x="3026.5" y="2615.6" class="lot-label">440</text>
+    <polygon id="CANARIA-LOT-441" data-index="441" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2243.7" data-cy="2714.9" class="lot-poly" fill="#F595A9" points="2277,2658 2185,2742 2210,2771 2303,2687" />
+    <text x="2243.7" y="2714.9" class="lot-label">441</text>
+    <polygon id="CANARIA-LOT-442" data-index="442" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2271.9" data-cy="2745.7" class="lot-poly" fill="#F595A9" points="2305,2689 2213,2773 2239,2802 2331,2718" />
+    <text x="2271.9" y="2745.7" class="lot-label">442</text>
+    <polygon id="CANARIA-LOT-443" data-index="443" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2320.3" data-cy="2801.2" class="lot-poly" fill="#F595A9" points="2354,2745 2261,2829 2287,2858 2379,2774" />
+    <text x="2320.3" y="2801.2" class="lot-label">443</text>
+    <polygon id="CANARIA-LOT-444" data-index="444" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2471.0" data-cy="2725.4" class="lot-poly" fill="#6CC6AE" points="2444,2660 2430,2673 2433,2728 2487,2785 2527,2748" />
+    <text x="2471.0" y="2725.4" class="lot-label">444</text>
+    <polygon id="CANARIA-LOT-445" data-index="445" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2589.7" data-cy="2784.4" class="lot-poly" fill="#6CC6AE" points="2559,2724 2532,2749 2619,2845 2648,2819" />
+    <text x="2589.7" y="2784.4" class="lot-label">445</text>
+    <polygon id="CANARIA-LOT-446" data-index="446" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2620.9" data-cy="2758.4" class="lot-poly" fill="#6CC6AE" points="2578,2706 2562,2722 2650,2817 2677,2790 2601,2708 2589,2713" />
+    <text x="2620.9" y="2758.4" class="lot-label">446</text>
+    <polygon id="CANARIA-LOT-447" data-index="447" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2655.4" data-cy="2734.8" class="lot-poly" fill="#6CC6AE" points="2631,2681 2604,2707 2680,2789 2707,2763" />
+    <text x="2655.4" y="2734.8" class="lot-label">447</text>
+    <polygon id="CANARIA-LOT-448" data-index="448" data-type="townhouse_6x19" data-type-name="Nhà phố vườn (6m x 19m)" data-cx="2685.7" data-cy="2707.0" class="lot-poly" fill="#6CC6AE" points="2661,2653 2634,2679 2710,2761 2738,2736" />
+    <text x="2685.7" y="2707.0" class="lot-label">448</text>
+    <polygon id="CANARIA-LOT-449" data-index="449" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2991.4" data-cy="2778.8" class="lot-poly" fill="#8BA1D2" points="2899,2691 2856,2733 3018,2901 3125,2784 2962,2680" />
+    <text x="2991.4" y="2778.8" class="lot-label">449</text>
+    <polygon id="CANARIA-LOT-450" data-index="450" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2348.5" data-cy="2832.1" class="lot-poly" fill="#F595A9" points="2382,2776 2289,2860 2315,2888 2408,2804" />
+    <text x="2348.5" y="2832.1" class="lot-label">450</text>
+    <polygon id="CANARIA-LOT-451" data-index="451" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2376.7" data-cy="2862.9" class="lot-poly" fill="#F595A9" points="2410,2807 2318,2890 2343,2919 2436,2835" />
+    <text x="2376.7" y="2862.9" class="lot-label">451</text>
+    <polygon id="CANARIA-LOT-452" data-index="452" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2404.8" data-cy="2893.8" class="lot-poly" fill="#F595A9" points="2438,2837 2346,2921 2371,2950 2464,2866" />
+    <text x="2404.8" y="2893.8" class="lot-label">452</text>
+    <polygon id="CANARIA-LOT-453" data-index="453" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2433.0" data-cy="2924.6" class="lot-poly" fill="#F595A9" points="2466,2868 2374,2952 2400,2981 2492,2897" />
+    <text x="2433.0" y="2924.6" class="lot-label">453</text>
+    <polygon id="CANARIA-LOT-454" data-index="454" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2843.9" data-cy="2902.4" class="lot-poly" fill="#8BA1D2" points="2794,2791 2738,2846 2892,3013 2951,2960" />
+    <text x="2843.9" y="2902.4" class="lot-label">454</text>
+    <polygon id="CANARIA-LOT-455" data-index="455" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2905.7" data-cy="2847.0" class="lot-poly" fill="#8BA1D2" points="2853,2735 2797,2790 2954,2958 3016,2903" />
+    <text x="2905.7" y="2847.0" class="lot-label">455</text>
+    <polygon id="CANARIA-LOT-456" data-index="456" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2461.2" data-cy="2955.5" class="lot-poly" fill="#F595A9" points="2494,2899 2402,2983 2428,3012 2520,2928" />
+    <text x="2461.2" y="2955.5" class="lot-label">456</text>
+    <polygon id="CANARIA-LOT-457" data-index="457" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2489.4" data-cy="2986.3" class="lot-poly" fill="#F595A9" points="2523,2930 2430,3014 2456,3043 2548,2959" />
+    <text x="2489.4" y="2986.3" class="lot-label">457</text>
+    <polygon id="CANARIA-LOT-458" data-index="458" data-type="shophouse" data-type-name="Nhà phố thương mại" data-cx="2517.6" data-cy="3017.1" class="lot-poly" fill="#F595A9" points="2551,2961 2458,3045 2484,3073 2577,2989" />
+    <text x="2517.6" y="3017.1" class="lot-label">458</text>
+    <polygon id="CANARIA-LOT-459" data-index="459" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2723.6" data-cy="3012.2" class="lot-poly" fill="#8BA1D2" points="2675,2903 2618,2956 2771,3122 2829,3067" />
+    <text x="2723.6" y="3012.2" class="lot-label">459</text>
+    <polygon id="CANARIA-LOT-460" data-index="460" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2783.5" data-cy="2956.7" class="lot-poly" fill="#8BA1D2" points="2735,2848 2678,2901 2831,3065 2889,3014" />
+    <text x="2783.5" y="2956.7" class="lot-label">460</text>
+    <polygon id="CANARIA-LOT-461" data-index="461" data-type="villa_semi" data-type-name="Biệt thự song lập" data-cx="2634.6" data-cy="3068.6" class="lot-poly" fill="#8BA1D2" points="2498,3065 2692,3161 2769,3124 2616,2958" />
+    <text x="2634.6" y="3068.6" class="lot-label">461</text>
+  </g>
+</svg>
